@@ -1,0 +1,17 @@
+{
+  "name": "heesen-voyage",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Itinerary website with Web Components + Leaflet + CSV geocoding.",
+  "scripts": {
+    "start": "http-server -c-1 -p 5173",
+    "geocode": "node geocode.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

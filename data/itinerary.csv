@@ -1,0 +1,4 @@
+id,title,city,country,address,lat,lng,start_date,end_date,status,km,notes
+1,Depart NL,Amsterdam,Netherlands,Amsterdam Schiphol,,,2025-11-05,2025-11-05,booked,,Flight to start sabbatical
+2,Cahuita stay,Cahuita,Costa Rica,Playa Negra Cahuita,,,2025-12-02,2025-12-10,booked,,Beach & sloths
+3,Puerto Viejo,Puerto Viejo,Costa Rica,Puerto Viejo de Talamanca,,,2025-12-11,2025-12-18,planned,,Caribbean vibes

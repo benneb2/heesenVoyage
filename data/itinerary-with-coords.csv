@@ -273,12 +273,12 @@ After breakfast, we will say goodbye to the jungle and head back to the city of 
 146,(Stop),,New Zeeland,-41.5000831,172.8344077,7-Apr-26,7-Apr-26,planned,,,New Zeeland
 147,(Stop),,New Zeeland,-41.5000831,172.8344077,8-Apr-26,8-Apr-26,planned,,,New Zeeland
 148,(Stop),,New Zeeland,-41.5000831,172.8344077,9-Apr-26,9-Apr-26,planned,,,New Zeeland
-149,(Stop),,Australia,-24.7761086,134.7550000,10-Apr-26,10-Apr-26,planned,,,Australia
-150,(Stop),,Australia,-24.7761086,134.7550000,11-Apr-26,11-Apr-26,planned,,,Australia
-151,(Stop),,Australia,-24.7761086,134.7550000,12-Apr-26,12-Apr-26,planned,,,Australia
-152,(Stop),,Australia,-24.7761086,134.7550000,13-Apr-26,13-Apr-26,planned,,,Australia
-153,(Stop),,Australia,-24.7761086,134.7550000,14-Apr-26,14-Apr-26,planned,,,Australia
-154,(Stop),,Australia,-24.7761086,134.7550000,15-Apr-26,15-Apr-26,planned,,,Australia
+149,Melbourne,,Australia,-24.7761086,134.7550000,10-Apr-26,10-Apr-26,planned,,,Australia
+150,Melbourne,,Australia,-24.7761086,134.7550000,11-Apr-26,11-Apr-26,planned,,,Australia
+151,Melbourne,,Australia,-24.7761086,134.7550000,12-Apr-26,12-Apr-26,planned,,,Australia
+152,Melbourne,,Australia,-24.7761086,134.7550000,13-Apr-26,13-Apr-26,planned,,,Australia
+153,Melbourne,,Australia,-24.7761086,134.7550000,14-Apr-26,14-Apr-26,planned,,,Australia
+154,Melbourne,,Australia,-24.7761086,134.7550000,15-Apr-26,15-Apr-26,planned,,,Australia
 155,(Stop),,Australia,-24.7761086,134.7550000,16-Apr-26,16-Apr-26,planned,,,Australia
 156,(Stop),,Australia,-24.7761086,134.7550000,17-Apr-26,17-Apr-26,planned,,,Australia
 157,(Stop),,Australia,-24.7761086,134.7550000,18-Apr-26,18-Apr-26,planned,,,Australia
@@ -287,38 +287,38 @@ After breakfast, we will say goodbye to the jungle and head back to the city of 
 160,(Stop),,Australia,-24.7761086,134.7550000,21-Apr-26,21-Apr-26,planned,,,Australia
 161,(Stop),,Australia,-24.7761086,134.7550000,22-Apr-26,22-Apr-26,planned,,,Australia
 162,(Stop),,Australia,-24.7761086,134.7550000,23-Apr-26,23-Apr-26,planned,,,Australia
-163,(Stop),,Australia,-24.7761086,134.7550000,24-Apr-26,24-Apr-26,planned,,,Australia
-164,(Stop),,Australia,-24.7761086,134.7550000,25-Apr-26,25-Apr-26,planned,,,Australia
-165,(Stop),,Australia,-24.7761086,134.7550000,26-Apr-26,26-Apr-26,planned,,,Australia
-166,(Stop),,Australia,-24.7761086,134.7550000,27-Apr-26,27-Apr-26,planned,,,Australia
-167,(Stop),,Australia,-24.7761086,134.7550000,28-Apr-26,28-Apr-26,planned,,,Australia
-168,(Stop),,Australia,-24.7761086,134.7550000,29-Apr-26,29-Apr-26,planned,,,Australia
-169,(Stop),,Australia,-24.7761086,134.7550000,30-Apr-26,30-Apr-26,planned,,,Australia
-170,(Stop),,Australia,-24.7761086,134.7550000,1-May-26,1-May-26,planned,,,Australia
-171,(Stop),,Australia,-24.7761086,134.7550000,2-May-26,2-May-26,planned,,,Australia
-172,(Stop),,Australia,-24.7761086,134.7550000,3-May-26,3-May-26,planned,,,Australia
-173,(Stop),,Australia,-24.7761086,134.7550000,4-May-26,4-May-26,planned,,,Australia
-174,(Stop),,Australia,-24.7761086,134.7550000,5-May-26,5-May-26,planned,,,Australia
-175,(Stop),,Australia,-24.7761086,134.7550000,6-May-26,6-May-26,planned,,,Australia
-176,(Stop),,Australia,-24.7761086,134.7550000,7-May-26,7-May-26,planned,,,Australia
-177,(Stop),,Australia,-24.7761086,134.7550000,8-May-26,8-May-26,planned,,,Australia
-178,(Stop),,Australia,-24.7761086,134.7550000,9-May-26,9-May-26,planned,,,Australia
-179,(Stop),,Australia,-24.7761086,134.7550000,10-May-26,10-May-26,planned,,,Australia
-180,Fiji Cruise,,Fiji,-18.1239696,179.0122737,11-May-26,11-May-26,planned,,,Fiji
-181,Fiji Cruise,,Fiji,-18.1239696,179.0122737,12-May-26,12-May-26,planned,,,Fiji
-182,Fiji Cruise,,Fiji,-18.1239696,179.0122737,13-May-26,13-May-26,planned,,,Fiji
-183,Fiji Cruise,,Fiji,-18.1239696,179.0122737,14-May-26,14-May-26,planned,,,Fiji
-184,Fiji Cruise,,Fiji,-18.1239696,179.0122737,15-May-26,15-May-26,planned,,,Fiji
-185,Fiji Cruise,,Fiji,-18.1239696,179.0122737,16-May-26,16-May-26,planned,,,Fiji
-186,Fiji Cruise,,Fiji,-18.1239696,179.0122737,17-May-26,17-May-26,planned,,,Fiji
-187,Fiji Cruise,,Fiji,-18.1239696,179.0122737,18-May-26,18-May-26,planned,,,Fiji
-188,Fiji Cruise,,Fiji,-18.1239696,179.0122737,19-May-26,19-May-26,planned,,,Fiji
-189,Fiji Cruise,,Fiji,-18.1239696,179.0122737,20-May-26,20-May-26,planned,,,Fiji
-190,Fiji Cruise,,Fiji,-18.1239696,179.0122737,21-May-26,21-May-26,planned,,,Fiji
-191,Fiji Cruise,,Fiji,-18.1239696,179.0122737,22-May-26,22-May-26,planned,,,Fiji
-192,Fiji Cruise,,Fiji,-18.1239696,179.0122737,23-May-26,23-May-26,planned,,,Fiji
-193,Fiji Cruise,,Fiji,-18.1239696,179.0122737,24-May-26,24-May-26,planned,,,Fiji
-194,Fiji Cruise,,Fiji,-18.1239696,179.0122737,25-May-26,25-May-26,planned,,,Fiji
+163,Brisbane,,Australia,-24.7761086,134.7550000,24-Apr-26,24-Apr-26,planned,,,Australia
+164,Brisbane,,Australia,-24.7761086,134.7550000,25-Apr-26,25-Apr-26,planned,,,Australia
+165,Brisbane,,Australia,-24.7761086,134.7550000,26-Apr-26,26-Apr-26,planned,,,Australia
+166,Brisbane,,Australia,-24.7761086,134.7550000,27-Apr-26,27-Apr-26,planned,,,Australia
+167,Brisbane,,Australia,-24.7761086,134.7550000,28-Apr-26,28-Apr-26,planned,,,Australia
+168,Brisbane,,Australia,-24.7761086,134.7550000,29-Apr-26,29-Apr-26,planned,,,Australia
+169,Brisbane,,Australia,-24.7761086,134.7550000,30-Apr-26,30-Apr-26,planned,,,Australia
+170,Brisbane,,Australia,-24.7761086,134.7550000,1-May-26,1-May-26,planned,,,Australia
+171,Brisbane,,Australia,-24.7761086,134.7550000,2-May-26,2-May-26,planned,,,Australia
+172,Sydney,,Australia,-24.7761086,134.7550000,3-May-26,3-May-26,planned,,,Australia
+173,Fiji Cruise Sydney,,Fiji,-18.1239696,179.0122737,4-May-26,4-May-26,planned,,,Fiji
+174,Fiji Cruise Sydney,,Fiji,-18.1239696,179.0122737,5-May-26,5-May-26,planned,,,Fiji
+175,Fiji Cruise Sydney,,Fiji,-18.1239696,179.0122737,6-May-26,6-May-26,planned,,,Fiji
+176,Fiji Cruise Sydney,,Fiji,-18.1239696,179.0122737,7-May-26,7-May-26,planned,,,Fiji
+177,Fiji Cruise Sydney,,Fiji,-18.1239696,179.0122737,8-May-26,8-May-26,planned,,,Fiji
+178,Fiji Cruise Sydney,,Fiji,-18.1239696,179.0122737,9-May-26,9-May-26,planned,,,Fiji
+179,Fiji Cruise Sydney,,Fiji,-18.1239696,179.0122737,10-May-26,10-May-26,planned,,,Fiji
+180,Fiji Cruise Sydney,,Fiji,-18.1239696,179.0122737,11-May-26,11-May-26,planned,,,Fiji
+181,Fiji Cruise Sydney,,Fiji,-18.1239696,179.0122737,12-May-26,12-May-26,planned,,,Fiji
+182,Fiji Cruise Sydney,,Fiji,-18.1239696,179.0122737,13-May-26,13-May-26,planned,,,Fiji
+183,Fiji Cruise Sydney,,Fiji,-18.1239696,179.0122737,14-May-26,14-May-26,planned,,,Fiji
+184,Fiji Cruise Sydney,,Fiji,-18.1239696,179.0122737,15-May-26,15-May-26,planned,,,Fiji
+185,Fiji Cruise Sydney,,Fiji,-18.1239696,179.0122737,16-May-26,16-May-26,planned,,,Fiji
+186,Sydney,,Australia,-24.7761086,134.7550000,17-May-26,17-May-26,planned,,,Australia
+187,Cairns,,Australia,-24.7761086,134.7550000,18-May-26,18-May-26,planned,,,Australia
+188,Cairns,,Australia,-24.7761086,134.7550000,19-May-26,19-May-26,planned,,,Australia
+189,Cairns,,Australia,-24.7761086,134.7550000,20-May-26,20-May-26,planned,,,Australia
+190,Cairns,,Australia,-24.7761086,134.7550000,21-May-26,21-May-26,planned,,,Australia
+191,Cairns,,Australia,-24.7761086,134.7550000,22-May-26,22-May-26,planned,,,Australia
+192,Cairns,,Australia,-24.7761086,134.7550000,23-May-26,23-May-26,planned,,,Australia
+193,Cairns,,Australia,-24.7761086,134.7550000,24-May-26,24-May-26,planned,,,Australia
+194,Cairns,,Australia,-24.7761086,134.7550000,25-May-26,25-May-26,planned,,,Australia
 195,(Stop),,Philippines,12.7503486,122.7312101,26-May-26,26-May-26,planned,,,Philippines
 196,(Stop),,Philippines,12.7503486,122.7312101,27-May-26,27-May-26,planned,,,Philippines
 197,(Stop),,Philippines,12.7503486,122.7312101,28-May-26,28-May-26,planned,,,Philippines
@@ -477,4 +477,4 @@ After breakfast, we will say goodbye to the jungle and head back to the city of 
 350,(Stop),,,,,28-Oct-26,28-Oct-26,planned,,,
 351,(Stop),,,,,29-Oct-26,29-Oct-26,planned,,,
 352,(Stop),,,,,30-Oct-26,30-Oct-26,planned,,,
-353,(Stop),,,,,31-Oct-26,31-Oct-26,planned,,,
+353,Woerden,,Netherlands,52.0862290,4.8818111,31-Oct-26,31-Oct-26,planned,,,Nieuwe Markt 20 Woerden

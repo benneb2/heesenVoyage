@@ -414,14 +414,16 @@ class HVApp extends HTMLElement {
     if (this.polyline) { this.map.removeLayer(this.polyline); this.polyline = null; }
     const latlngs = [];
     for (const item of Store.state.filtered) {
-      const color = statusColor(item.status);
-      const marker = L.circleMarker([item.lat, item.lng], {radius:8, color, weight:2, fillColor:color, fillOpacity:.7}).addTo(this.map);
-      marker.bindPopup(`<strong>${item.title||item.city||''}</strong><br/>${item.city?item.city+', ':''}${item.country||''}<br/><small>${dateRange(item.start_date,item.end_date)}</small><br/><em>${item.status}</em>${item.notes?`<br/><small>${item.notes}</small>`:''}`);
-      marker.on('click', () => {
-        Store.set({activeId: item.id});
-        this.renderList();
-      });
-      this.markers.set(item.id, marker); latlngs.push([item.lat, item.lng]);
+        // Skip undecided stops with lat/lng 0,0
+        if (item.lat === 0 && item.lng === 0) continue;
+        const color = statusColor(item.status);
+        const marker = L.circleMarker([item.lat, item.lng], {radius:8, color, weight:2, fillColor:color, fillOpacity:.7}).addTo(this.map);
+        marker.bindPopup(`<strong>${item.title||item.city||''}</strong><br/>${item.city?item.city+', ':''}${item.country||''}<br/><small>${dateRange(item.start_date,item.end_date)}</small><br/><em>${item.status}</em>${item.notes?`<br/><small>${item.notes}</small>`:''}`);
+        marker.on('click', () => {
+          Store.set({activeId: item.id});
+          this.renderList();
+        });
+        this.markers.set(item.id, marker); latlngs.push([item.lat, item.lng]);
     }
     if (latlngs.length >= 2) this.polyline = L.polyline(latlngs, {color:'#334155', weight:3, opacity:.6, dashArray:'4 6'}).addTo(this.map);
     if (fit && latlngs.length) { this.map.fitBounds(L.latLngBounds(latlngs).pad(0.2)); this.map.invalidateSize(); }

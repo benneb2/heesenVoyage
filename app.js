@@ -36,6 +36,18 @@ class HVApp extends HTMLElement {
         min-height: calc(100vh - 80px);
         margin-top: 16px;
       }
+      @media (max-width: 700px) {
+        .container {
+          display: block;
+        }
+        .map-wrap {
+          margin-bottom: 16px;
+        }
+        .sidebar {
+          min-width: 0;
+          margin-top: 0;
+        }
+      }
       .map-wrap {
         background: #fff;
         border-radius: 16px;
@@ -413,8 +425,9 @@ class HVApp extends HTMLElement {
     else { this.markers = new Map(); }
     if (this.polyline) { this.map.removeLayer(this.polyline); this.polyline = null; }
     const latlngs = [];
+    const transportSegments = [];
+    let prevItem = null;
     for (const item of Store.state.filtered) {
-        // Skip undecided stops with lat/lng 0,0
         if (item.lat === 0 && item.lng === 0) continue;
         const color = statusColor(item.status);
         const marker = L.circleMarker([item.lat, item.lng], {radius:8, color, weight:2, fillColor:color, fillOpacity:.7}).addTo(this.map);
@@ -424,8 +437,18 @@ class HVApp extends HTMLElement {
           this.renderList();
         });
         this.markers.set(item.id, marker); latlngs.push([item.lat, item.lng]);
+        if (prevItem) {
+          // Show means of transport between prevItem and item
+          const transport = item.transport || prevItem.transport || '';
+          const segment = L.polyline([[prevItem.lat, prevItem.lng], [item.lat, item.lng]], {color:'#334155', weight:3, opacity:.6, dashArray:'4 6'}).addTo(this.map);
+          if (transport) {
+            segment.bindTooltip(transport, {permanent: false, direction: 'center', className: 'transport-label'});
+          }
+          transportSegments.push(segment);
+        }
+        prevItem = item;
     }
-    if (latlngs.length >= 2) this.polyline = L.polyline(latlngs, {color:'#334155', weight:3, opacity:.6, dashArray:'4 6'}).addTo(this.map);
+    // Optionally fit bounds to all points
     if (fit && latlngs.length) { this.map.fitBounds(L.latLngBounds(latlngs).pad(0.2)); this.map.invalidateSize(); }
   }
 

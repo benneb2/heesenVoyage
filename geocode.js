@@ -14,6 +14,11 @@ const sleep = (ms)=> new Promise(r=>setTimeout(r, ms));
 const norm = (v)=> (v==null ? "" : String(v).trim());
 const yesSet = new Set(["1","y","yes","true","booked"]);
 
+// 1 deg latitude ~ 111.32 km, 1 deg longitude ~ 111.32*cos(lat) km
+const km = 0.5;
+const randAngle = Math.random() * 2 * Math.PI;
+const randDist = km * (0.7 + 0.6 * Math.random()); // 1.4km to 2.6km
+
 function pick(row, keys, def=""){
   for (const k of keys) {
     for (const v of [k, k.toLowerCase(), k.toUpperCase()]) {
@@ -96,7 +101,15 @@ async function geocode(address){
       }
     }
 
-    outRows.push({ id, title, city, country, lat, lng, start_date, end_date, status, km, notes, address });
+    // Add random offset of ~2km to each lat/lng if valid
+    let latOut = lat, lngOut = lng;
+    if (lat && lng && isFinite(Number(lat)) && isFinite(Number(lng))) {
+      const dLat = (randDist * Math.cos(randAngle)) / 111.32;
+      const dLng = (randDist * Math.sin(randAngle)) / (111.32 * Math.cos(Number(lat) * Math.PI / 180));
+      latOut = Number(lat) + dLat;
+      lngOut = Number(lng) + dLng;
+    }
+    outRows.push({ id, title, city, country, lat: latOut, lng: lngOut, start_date, end_date, status, km, notes, address });
   }
 
   outRows.sort((a,b)=> new Date(a.start_date) - new Date(b.start_date));

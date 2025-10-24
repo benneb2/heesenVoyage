@@ -1,6 +1,6 @@
 id,title,city,country,lat,lng,start_date,end_date,status,km,notes,address
-1,Woerden,,Netherlands,52.0862290,4.8818111,13-Nov-25,13-Nov-25,planned,,,Nieuwe Markt 20 Woerden
-2,Lima,,Peru,-12.12199306733713,-77.02661143965986,14-Nov-25,14-Nov-25,booked,,"Miraflores & Coastline
+1,Woerden,,Netherlands,52.088249694089406,4.876598839761123,13-Nov-25,13-Nov-25,planned,,,Nieuwe Markt 20 Woerden
+2,Lima,,Peru,-12.119972373247725,-77.02988728492349,14-Nov-25,14-Nov-25,booked,,"Miraflores & Coastline
 
 Morning
 
@@ -25,7 +25,7 @@ End at Parque del Amor for the mosaics and sea view.
 Dinner
 
 Relaxed food at Mercado 28 (lots of choice, casual).","Av La Paz, 463 - Miraflores, Miraflores, Lima 18 Lima, Peru"
-3,Lima,,Peru,-12.12199306733713,-77.02661143965986,15-Nov-25,15-Nov-25,booked,,"Zoo & Magic Water Show
+3,Lima,,Peru,-12.119972373247725,-77.02988728492349,15-Nov-25,15-Nov-25,booked,,"Zoo & Magic Water Show
 
 Morning
 
@@ -56,7 +56,7 @@ Go around 6–7 PM for the light show.
 Bring spare clothes for kids (some fountains are splash zones).
 
 Safe, stroller-friendly, and magical for children.","Av La Paz, 463 - Miraflores, Miraflores, Lima 18 Lima, Peru"
-4,Lima,,Peru,-12.12199306733713,-77.02661143965986,16-Nov-25,16-Nov-25,booked,,"Barranco & Beach Time
+4,Lima,,Peru,-12.119972373247725,-77.02988728492349,16-Nov-25,16-Nov-25,booked,,"Barranco & Beach Time
 
 Morning
 
@@ -83,7 +83,7 @@ Watch surfers and enjoy the seaside.
 Dinner
 
 Treat yourselves to fresh fish at a casual cevichería (e.g., La Red, which is family friendly).","Av La Paz, 463 - Miraflores, Miraflores, Lima 18 Lima, Peru"
-5,Amazon,,Peru,-12.779936037753904,-69.25776842736403,17-Nov-25,17-Nov-25,booked,,"TAMBOPATA RIVER
+5,Amazon,,Peru,-12.7779153436645,-69.26105258907319,17-Nov-25,17-Nov-25,booked,,"TAMBOPATA RIVER
 Our adventure in the jungle begins by taking the boat heading to Ñape Lodge. We will navigate the Tambopata River for 30 minutes and become familiar with the landscapes that the Amazon rainforest has to show us. Tambopata is the main river in the Madre de Dios region and runs through the Tambopata National Reserve. All along this river is located the native community Ese Eja de Infierno who are the owners of Ñape Lodge. Tambopata is known for its lakes and clay licks, for its biodiversity and for being home to felines such as the jaguar and puma, birds such as parrots and macaws, the rodent capybara, amphibians and a diversity of reptiles. The Tambopata River is a meeting place and a source of life for the species that inhabit this ecosystem.
 
 LUNCH
@@ -95,7 +95,7 @@ NIGHT WALK
 It is said that in the jungle, night is the end of the day for many species, but it is the beginning of the day for many others. We will have the opportunity to experience an exciting night walk, where we will be able to observe a great diversity of insects, moths, amphibians and reptiles. It is time to turn on our flashlights and pay attention to our senses because in the jungle, everything is alive.
 
 DINNER","-12.779936037753904, -69.25776842736403, Peru"
-6,Amazon,,Peru,-12.779936037753904,-69.25776842736403,18-Nov-25,18-Nov-25,planned,,"BREAKFAST
+6,Amazon,,Peru,-12.7779153436645,-69.26105258907319,18-Nov-25,18-Nov-25,planned,,"BREAKFAST
 
 LAKE TRES CHIMBADAS
 Early in the morning, we will board a boat upriver and enjoy the fresh air of the Amazonian dawn, until we get to the starting point of a hike through a secondary forest, which will take us to the serpent-shaped lake, better known as Tres Chimbadas. Here we will board a rowing catamaran and prepare our senses to enjoy what this beautiful place has to offer. We will be able to see monkeys, birds, black caimans, and the famous river otter that dominates this habitat.
@@ -115,7 +115,7 @@ SEARCH FOR CAIMANS
 At dusk, we will embark on an adventure, riding the boat and guided by its powerful light, in search of the nocturnal life of the rainforest. Here, the nocturnal creatures adapted to the dark are very active and come out to hunt along the Tambopata River. Caimans wait patiently for their prey along the riverbanks. We may also see capybaras or deer, as they are animals that usually hang around the river, and maybe with a lot of luck, a puma or jaguar.
 
 DINNER","-12.779936037753904, -69.25776842736403, Peru"
-7,Amazon,,Peru,-12.779936037753904,-69.25776842736403,19-Nov-25,19-Nov-25,planned,,"BREAKFAST
+7,Amazon,,Peru,-12.7779153436645,-69.26105258907319,19-Nov-25,19-Nov-25,planned,,"BREAKFAST
 
 MAMMAL CLAY LICK
 Here we hike for two hours through forest trails until we reach the mammal clay lick. This place attracts visitors such as birds, deer, monkeys, and other mammals that come to feed and get the minerals they need for their nutritional balance.
@@ -126,68 +126,68 @@ BOAT RIDE AND SUNSET
 Sailing the Tambopata River is a great experience in itself, but watching the sunset on the Tambopata River is an unforgettable spectacle. We will embark our boat upriver in search of capybaras, caimans or if we are fortunate, a jaguar on the prowl. One of the best gifts Tambopata can offer us is this beautiful colorful watercolor. Enjoy!
 
 DINNER","-12.779936037753904, -69.25776842736403, Peru"
-8,Amazon,,Peru,-12.779936037753904,-69.25776842736403,20-Nov-25,20-Nov-25,planned,,"BREAKFAST
+8,Amazon,,Peru,-12.7779153436645,-69.26105258907319,20-Nov-25,20-Nov-25,planned,,"BREAKFAST
 
 ESE EJA MASTER HIKE
 The longest hike we will do takes approximately three hours. We will dive into the dense virgin forest, getting to observe giant trees with over 400 years old. In the deepest part of the reserve we will get to Cocococha Lake and walk through its surroundings, looking carefully to find the black caiman in the swampy area, or the anaconda resting on the shore of the lake. The monkeys, eating the fruits of the palm trees and the macaws flying in pairs watching us from above. Our guide shows us the monkeys and gives us insights about the different species in a very entertaining conversation. An ideal tour for adventure and trekking lovers.","-12.779936037753904, -69.25776842736403, Peru"
-9,Ollantaytambo,,Peru,-13.25820238778084,-72.26436058016094,21-Nov-25,21-Nov-25,planned,,"BREAKFAST
+9,Ollantaytambo,,Peru,-13.256181693691435,-72.26765108665145,21-Nov-25,21-Nov-25,planned,,"BREAKFAST
 
 RETURN
 After breakfast, we will say goodbye to the jungle and head back to the city of Puerto Maldonado. Before heading to the airport, we will stop by our office to pick up our bags or any additional assistance you may need. This day marks the end of your exciting jungle adventure, taking with you unforgettable memories and enriching experiences.","Carretera Occobamba, Ollantaytambo, Qosqo, Peru"
-10,Ollantaytambo,,Peru,-13.25820238778084,-72.26436058016094,22-Nov-25,22-Nov-25,planned,,El Albergue Farm,"Carretera Occobamba, Ollantaytambo, Qosqo, Peru"
-11,Ollantaytambo,,Peru,-13.25820238778084,-72.26436058016094,23-Nov-25,23-Nov-25,planned,,Machu Picchu,"Carretera Occobamba, Ollantaytambo, Qosqo, Peru"
-12,Ollantaytambo,,Peru,-13.25820238778084,-72.26436058016094,24-Nov-25,24-Nov-25,planned,,https://www.awamaki.org/pages/contact?contact_posted=true#contact_form,"Carretera Occobamba, Ollantaytambo, Qosqo, Peru"
-13,Lama farm,,Peru,-13.322787296757596,-72.14495829758252,25-Nov-25,25-Nov-25,planned,,,"-13.322787296757596, -72.14495829758252, Peru"
-14,Lama farm,,Peru,-13.322787296757596,-72.14495829758252,26-Nov-25,26-Nov-25,planned,,Picnic and Paint,"-13.322787296757596, -72.14495829758252, Peru"
-15,Lama farm,,Peru,-13.322787296757596,-72.14495829758252,27-Nov-25,27-Nov-25,planned,,,"-13.322787296757596, -72.14495829758252, Peru"
-16,Cusco,,Peru,-13.513742922227808,-71.9748936963098,28-Nov-25,28-Nov-25,planned,,,"Calle Tandapata 172, Cusco City Centre, Cusco, Peru"
-17,Cusco,,Peru,-13.513742922227808,-71.9748936963098,29-Nov-25,29-Nov-25,planned,,https://planetariumcusco.com/,"Calle Tandapata 172, Cusco City Centre, Cusco, Peru"
-18,Cusco,,Peru,-13.513742922227808,-71.9748936963098,30-Nov-25,30-Nov-25,planned,,,"Calle Tandapata 172, Cusco City Centre, Cusco, Peru"
-19,Cusco,,Peru,-13.513742922227808,-71.9748936963098,1-Dec-25,1-Dec-25,planned,,,"Calle Tandapata 172, Cusco City Centre, Cusco, Peru"
-20,Cusco,,Peru,-13.513742922227808,-71.9748936963098,2-Dec-25,2-Dec-25,planned,,,"Calle Tandapata 172, Cusco City Centre, Cusco, Peru"
-21,San Jose,,Costa Rica,10.01295533788781,-84.20468480410123,3-Dec-25,3-Dec-25,planned,,,"Calle A2 Casa 1F, Alajuela, Provincia de Alajuela, Costa Rica"
-22,Venando,,Costa Rica,10.330631534886663,-85.72146753914419,4-Dec-25,4-Dec-25,planned,,,"Venado Hills, Santa Cruz, Costa Rica"
-23,Venando,,Costa Rica,10.330631534886663,-85.72146753914419,5-Dec-25,5-Dec-25,planned,,,"Venado Hills, Santa Cruz, Costa Rica"
-24,Venando,,Costa Rica,10.330631534886663,-85.72146753914419,6-Dec-25,6-Dec-25,planned,,,"Venado Hills, Santa Cruz, Costa Rica"
-25,Venando,,Costa Rica,10.330631534886663,-85.72146753914419,7-Dec-25,7-Dec-25,planned,,,"Venado Hills, Santa Cruz, Costa Rica"
-26,Venando,,Costa Rica,10.330631534886663,-85.72146753914419,8-Dec-25,8-Dec-25,planned,,,"Venado Hills, Santa Cruz, Costa Rica"
-27,Venando,,Costa Rica,10.330631534886663,-85.72146753914419,9-Dec-25,9-Dec-25,planned,,,"Venado Hills, Santa Cruz, Costa Rica"
-28,Manzanillo,,Costa Rica,9.642288944738846,-85.16653455454265,10-Dec-25,10-Dec-25,planned,,,"800 metros norte de la cancha de futbol de Santa Teresa, 60111 Santa Teresa Beach, Costa Rica"
-29,Manzanillo,,Costa Rica,9.642288944738846,-85.16653455454265,11-Dec-25,11-Dec-25,planned,,,"800 metros norte de la cancha de futbol de Santa Teresa, 60111 Santa Teresa Beach, Costa Rica"
-30,Manzanillo,,Costa Rica,9.642288944738846,-85.16653455454265,12-Dec-25,12-Dec-25,planned,,,"800 metros norte de la cancha de futbol de Santa Teresa, 60111 Santa Teresa Beach, Costa Rica"
-31,Manzanillo,,Costa Rica,9.642288944738846,-85.16653455454265,13-Dec-25,13-Dec-25,planned,,,"800 metros norte de la cancha de futbol de Santa Teresa, 60111 Santa Teresa Beach, Costa Rica"
-32,Col del Toro,,Costa Rica,10.350979677891791,-84.27300601106352,14-Dec-25,14-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
-33,Col del Toro,,Costa Rica,10.350979677891791,-84.27300601106352,15-Dec-25,15-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
-34,Col del Toro,,Costa Rica,10.350979677891791,-84.27300601106352,16-Dec-25,16-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
-35,Col del Toro,,Costa Rica,10.350979677891791,-84.27300601106352,17-Dec-25,17-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
-36,Col del Toro,,Costa Rica,10.350979677891791,-84.27300601106352,18-Dec-25,18-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
-37,Col del Toro,,Costa Rica,10.350979677891791,-84.27300601106352,19-Dec-25,19-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
-38,Col del Toro,,Costa Rica,10.350979677891791,-84.27300601106352,20-Dec-25,20-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
-39,Pejibaye District,,Costa Rica,9.152652714212746,-83.70629080604962,21-Dec-25,21-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
-40,Pejibaye District,,Costa Rica,9.152652714212746,-83.70629080604962,22-Dec-25,22-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
-41,Pejibaye District,,Costa Rica,9.152652714212746,-83.70629080604962,23-Dec-25,23-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
-42,Pejibaye District,,Costa Rica,9.152652714212746,-83.70629080604962,24-Dec-25,24-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
-43,Pejibaye District,,Costa Rica,9.152652714212746,-83.70629080604962,25-Dec-25,25-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
-44,Pejibaye District,,Costa Rica,9.152652714212746,-83.70629080604962,26-Dec-25,26-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
-45,Pejibaye District,,Costa Rica,9.152652714212746,-83.70629080604962,27-Dec-25,27-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
-46,Bocas Del Toro,,Panama,9.36127999321893,-82.24219319325255,28-Dec-25,28-Dec-25,planned,,,"Bluff 10, Bocas del Toro, Bocas del Toro Province, Panama"
-47,Bocas Del Toro,,Panama,9.36127999321893,-82.24219319325255,29-Dec-25,29-Dec-25,planned,,,"Bluff 10, Bocas del Toro, Bocas del Toro Province, Panama"
-48,Bocas Del Toro,,Panama,9.36127999321893,-82.24219319325255,30-Dec-25,30-Dec-25,planned,,,"Bluff 10, Bocas del Toro, Bocas del Toro Province, Panama"
-49,Bocas Del Toro,,Panama,9.36127999321893,-82.24219319325255,31-Dec-25,31-Dec-25,planned,,,"Bluff 10, Bocas del Toro, Bocas del Toro Province, Panama"
-50,Bocas Del Toro,,Panama,9.36127999321893,-82.24219319325255,1-Jan-26,1-Jan-26,planned,,,"Bluff 10, Bocas del Toro, Bocas del Toro Province, Panama"
-51,Bocas Del Toro,,Panama,9.349948341614946,-82.22940203188966,2-Jan-26,2-Jan-26,planned,,,"Playa Carenero, Bocas del Toro, Provincia de Bocas del Toro, Panama"
-52,Bocas Del Toro,,Panama,9.349948341614946,-82.22940203188966,3-Jan-26,3-Jan-26,planned,,,"Playa Carenero, Bocas del Toro, Provincia de Bocas del Toro, Panama"
-53,Bocas Del Toro,,Panama,9.349948341614946,-82.22940203188966,4-Jan-26,4-Jan-26,planned,,,"Playa Carenero, Bocas del Toro, Provincia de Bocas del Toro, Panama"
-54,Bocas Del Toro,,Panama,9.349948341614946,-82.22940203188966,5-Jan-26,5-Jan-26,planned,,,"Playa Carenero, Bocas del Toro, Provincia de Bocas del Toro, Panama"
-55,Panama City,,Panama,8.951636547323586,-79.53860056651644,6-Jan-26,6-Jan-26,planned,,,"8.951636547323586, -79.53860056651644, Panama"
-56,Panama City,,Panama,8.951636547323586,-79.53860056651644,7-Jan-26,7-Jan-26,planned,,,"8.951636547323586, -79.53860056651644, Panama"
-57,Panama City,,Panama,8.951636547323586,-79.53860056651644,8-Jan-26,8-Jan-26,planned,,,"8.951636547323586, -79.53860056651644, Panama"
-58,Panama City,,Panama,8.951636547323586,-79.53860056651644,9-Jan-26,9-Jan-26,planned,,,"8.951636547323586, -79.53860056651644, Panama"
-59,Panama City,,Panama,8.951636547323586,-79.53860056651644,10-Jan-26,10-Jan-26,planned,,,"8.951636547323586, -79.53860056651644, Panama"
-60,Panama City,,Panama,8.951636547323586,-79.53860056651644,11-Jan-26,11-Jan-26,planned,,,"8.951636547323586, -79.53860056651644, Panama"
-61,El Valle de Anton,,Panama,9.0620248,-79.6643080,12-Jan-26,12-Jan-26,planned,,,"Panamá Oeste, Panamá, Panama"
-62,El Valle de Anton,,Panama,9.0620248,-79.6643080,13-Jan-26,13-Jan-26,planned,,,"Panamá Oeste, Panamá, Panama"
-63,El Valle de Anton,,Panama,9.0620248,-79.6643080,14-Jan-26,14-Jan-26,planned,,,"Panamá Oeste, Panamá, Panama"
+10,Ollantaytambo,,Peru,-13.256181693691435,-72.26765108665145,22-Nov-25,22-Nov-25,planned,,El Albergue Farm,"Carretera Occobamba, Ollantaytambo, Qosqo, Peru"
+11,Ollantaytambo,,Peru,-13.256181693691435,-72.26765108665145,23-Nov-25,23-Nov-25,planned,,Machu Picchu,"Carretera Occobamba, Ollantaytambo, Qosqo, Peru"
+12,Ollantaytambo,,Peru,-13.256181693691435,-72.26765108665145,24-Nov-25,24-Nov-25,planned,,https://www.awamaki.org/pages/contact?contact_posted=true#contact_form,"Carretera Occobamba, Ollantaytambo, Qosqo, Peru"
+13,Lama farm,,Peru,-13.320766602668192,-72.1482496803395,25-Nov-25,25-Nov-25,planned,,,"-13.322787296757596, -72.14495829758252, Peru"
+14,Lama farm,,Peru,-13.320766602668192,-72.1482496803395,26-Nov-25,26-Nov-25,planned,,Picnic and Paint,"-13.322787296757596, -72.14495829758252, Peru"
+15,Lama farm,,Peru,-13.320766602668192,-72.1482496803395,27-Nov-25,27-Nov-25,planned,,,"-13.322787296757596, -72.14495829758252, Peru"
+16,Cusco,,Peru,-13.511722228138403,-71.97818769711755,28-Nov-25,28-Nov-25,planned,,,"Calle Tandapata 172, Cusco City Centre, Cusco, Peru"
+17,Cusco,,Peru,-13.511722228138403,-71.97818769711755,29-Nov-25,29-Nov-25,planned,,https://planetariumcusco.com/,"Calle Tandapata 172, Cusco City Centre, Cusco, Peru"
+18,Cusco,,Peru,-13.511722228138403,-71.97818769711755,30-Nov-25,30-Nov-25,planned,,,"Calle Tandapata 172, Cusco City Centre, Cusco, Peru"
+19,Cusco,,Peru,-13.511722228138403,-71.97818769711755,1-Dec-25,1-Dec-25,planned,,,"Calle Tandapata 172, Cusco City Centre, Cusco, Peru"
+20,Cusco,,Peru,-13.511722228138403,-71.97818769711755,2-Dec-25,2-Dec-25,planned,,,"Calle Tandapata 172, Cusco City Centre, Cusco, Peru"
+21,San Jose,,Costa Rica,10.014976031977215,-84.20793714501673,3-Dec-25,3-Dec-25,planned,,,"Calle A2 Casa 1F, Alajuela, Provincia de Alajuela, Costa Rica"
+22,Venando,,Costa Rica,10.332652228976068,-85.72472311708911,4-Dec-25,4-Dec-25,planned,,,"Venado Hills, Santa Cruz, Costa Rica"
+23,Venando,,Costa Rica,10.332652228976068,-85.72472311708911,5-Dec-25,5-Dec-25,planned,,,"Venado Hills, Santa Cruz, Costa Rica"
+24,Venando,,Costa Rica,10.332652228976068,-85.72472311708911,6-Dec-25,6-Dec-25,planned,,,"Venado Hills, Santa Cruz, Costa Rica"
+25,Venando,,Costa Rica,10.332652228976068,-85.72472311708911,7-Dec-25,7-Dec-25,planned,,,"Venado Hills, Santa Cruz, Costa Rica"
+26,Venando,,Costa Rica,10.332652228976068,-85.72472311708911,8-Dec-25,8-Dec-25,planned,,,"Venado Hills, Santa Cruz, Costa Rica"
+27,Venando,,Costa Rica,10.332652228976068,-85.72472311708911,9-Dec-25,9-Dec-25,planned,,,"Venado Hills, Santa Cruz, Costa Rica"
+28,Manzanillo,,Costa Rica,9.64430963882825,-85.16978325270918,10-Dec-25,10-Dec-25,planned,,,"800 metros norte de la cancha de futbol de Santa Teresa, 60111 Santa Teresa Beach, Costa Rica"
+29,Manzanillo,,Costa Rica,9.64430963882825,-85.16978325270918,11-Dec-25,11-Dec-25,planned,,,"800 metros norte de la cancha de futbol de Santa Teresa, 60111 Santa Teresa Beach, Costa Rica"
+30,Manzanillo,,Costa Rica,9.64430963882825,-85.16978325270918,12-Dec-25,12-Dec-25,planned,,,"800 metros norte de la cancha de futbol de Santa Teresa, 60111 Santa Teresa Beach, Costa Rica"
+31,Manzanillo,,Costa Rica,9.64430963882825,-85.16978325270918,13-Dec-25,13-Dec-25,planned,,,"800 metros norte de la cancha de futbol de Santa Teresa, 60111 Santa Teresa Beach, Costa Rica"
+32,Col del Toro,,Costa Rica,10.353000371981196,-84.27626179998185,14-Dec-25,14-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
+33,Col del Toro,,Costa Rica,10.353000371981196,-84.27626179998185,15-Dec-25,15-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
+34,Col del Toro,,Costa Rica,10.353000371981196,-84.27626179998185,16-Dec-25,16-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
+35,Col del Toro,,Costa Rica,10.353000371981196,-84.27626179998185,17-Dec-25,17-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
+36,Col del Toro,,Costa Rica,10.353000371981196,-84.27626179998185,18-Dec-25,18-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
+37,Col del Toro,,Costa Rica,10.353000371981196,-84.27626179998185,19-Dec-25,19-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
+38,Col del Toro,,Costa Rica,10.353000371981196,-84.27626179998185,20-Dec-25,20-Dec-25,planned,,,"Alajuela, San Carlos, 2 km Sureste de la Escuela de Masella, Venecia, 11000 Marsella, Costa Rica"
+39,Pejibaye District,,Costa Rica,9.15467340830215,-83.70953491262425,21-Dec-25,21-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
+40,Pejibaye District,,Costa Rica,9.15467340830215,-83.70953491262425,22-Dec-25,22-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
+41,Pejibaye District,,Costa Rica,9.15467340830215,-83.70953491262425,23-Dec-25,23-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
+42,Pejibaye District,,Costa Rica,9.15467340830215,-83.70953491262425,24-Dec-25,24-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
+43,Pejibaye District,,Costa Rica,9.15467340830215,-83.70953491262425,25-Dec-25,25-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
+44,Pejibaye District,,Costa Rica,9.15467340830215,-83.70953491262425,26-Dec-25,26-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
+45,Pejibaye District,,Costa Rica,9.15467340830215,-83.70953491262425,27-Dec-25,27-Dec-25,planned,,,"Calle la Union 300m North of Selva Armonia, 60504 Uvita, Costa Rica"
+46,Bocas Del Toro,,Panama,9.363300687308335,-82.24543922567068,28-Dec-25,28-Dec-25,planned,,,"Bluff 10, Bocas del Toro, Bocas del Toro Province, Panama"
+47,Bocas Del Toro,,Panama,9.363300687308335,-82.24543922567068,29-Dec-25,29-Dec-25,planned,,,"Bluff 10, Bocas del Toro, Bocas del Toro Province, Panama"
+48,Bocas Del Toro,,Panama,9.363300687308335,-82.24543922567068,30-Dec-25,30-Dec-25,planned,,,"Bluff 10, Bocas del Toro, Bocas del Toro Province, Panama"
+49,Bocas Del Toro,,Panama,9.363300687308335,-82.24543922567068,31-Dec-25,31-Dec-25,planned,,,"Bluff 10, Bocas del Toro, Bocas del Toro Province, Panama"
+50,Bocas Del Toro,,Panama,9.363300687308335,-82.24543922567068,1-Jan-26,1-Jan-26,planned,,,"Bluff 10, Bocas del Toro, Bocas del Toro Province, Panama"
+51,Bocas Del Toro,,Panama,9.35196903570435,-82.23264795854084,2-Jan-26,2-Jan-26,planned,,,"Playa Carenero, Bocas del Toro, Provincia de Bocas del Toro, Panama"
+52,Bocas Del Toro,,Panama,9.35196903570435,-82.23264795854084,3-Jan-26,3-Jan-26,planned,,,"Playa Carenero, Bocas del Toro, Provincia de Bocas del Toro, Panama"
+53,Bocas Del Toro,,Panama,9.35196903570435,-82.23264795854084,4-Jan-26,4-Jan-26,planned,,,"Playa Carenero, Bocas del Toro, Provincia de Bocas del Toro, Panama"
+54,Bocas Del Toro,,Panama,9.35196903570435,-82.23264795854084,5-Jan-26,5-Jan-26,planned,,,"Playa Carenero, Bocas del Toro, Provincia de Bocas del Toro, Panama"
+55,Panama City,,Panama,8.95365724141299,-79.54184286030713,6-Jan-26,6-Jan-26,planned,,,"8.951636547323586, -79.53860056651644, Panama"
+56,Panama City,,Panama,8.95365724141299,-79.54184286030713,7-Jan-26,7-Jan-26,planned,,,"8.951636547323586, -79.53860056651644, Panama"
+57,Panama City,,Panama,8.95365724141299,-79.54184286030713,8-Jan-26,8-Jan-26,planned,,,"8.951636547323586, -79.53860056651644, Panama"
+58,Panama City,,Panama,8.95365724141299,-79.54184286030713,9-Jan-26,9-Jan-26,planned,,,"8.951636547323586, -79.53860056651644, Panama"
+59,Panama City,,Panama,8.95365724141299,-79.54184286030713,10-Jan-26,10-Jan-26,planned,,,"8.951636547323586, -79.53860056651644, Panama"
+60,Panama City,,Panama,8.95365724141299,-79.54184286030713,11-Jan-26,11-Jan-26,planned,,,"8.951636547323586, -79.53860056651644, Panama"
+61,El Valle de Anton,,Panama,9.064045494089404,-79.66755128409015,12-Jan-26,12-Jan-26,planned,,,"Panamá Oeste, Panamá, Panama"
+62,El Valle de Anton,,Panama,9.064045494089404,-79.66755128409015,13-Jan-26,13-Jan-26,planned,,,"Panamá Oeste, Panamá, Panama"
+63,El Valle de Anton,,Panama,9.064045494089404,-79.66755128409015,14-Jan-26,14-Jan-26,planned,,,"Panamá Oeste, Panamá, Panama"
 64,El Ciruelo,,Panama,,,15-Jan-26,15-Jan-26,planned,,,"El Ciruelo, Los Santos Province 06069"
 65,El Ciruelo,,Panama,,,16-Jan-26,16-Jan-26,planned,,,"El Ciruelo, Los Santos Province 06069"
 66,El Ciruelo,,Panama,,,17-Jan-26,17-Jan-26,planned,,,"El Ciruelo, Los Santos Province 06069"
@@ -201,213 +201,213 @@ After breakfast, we will say goodbye to the jungle and head back to the city of 
 74,El Ciruelo,,Panama,,,25-Jan-26,25-Jan-26,planned,,,"El Ciruelo, Los Santos Province 06069"
 75,El Ciruelo,,Panama,,,26-Jan-26,26-Jan-26,planned,,,"El Ciruelo, Los Santos Province 06069"
 76,El Ciruelo,,Panama,,,27-Jan-26,27-Jan-26,planned,,,"El Ciruelo, Los Santos Province 06069"
-77,(Stop),,Panama,8.5595590,-81.1308434,28-Jan-26,28-Jan-26,planned,,,Panama
-78,(Stop),,Panama,8.5595590,-81.1308434,29-Jan-26,29-Jan-26,planned,,,Panama
-79,(Stop),,Panama,8.5595590,-81.1308434,30-Jan-26,30-Jan-26,planned,,,Panama
-80,(Stop),,Argentina,-34.9964963,-64.9672817,31-Jan-26,31-Jan-26,planned,,,Argentina
-81,(Stop),,Argentina,-34.9964963,-64.9672817,1-Feb-26,1-Feb-26,planned,,,Argentina
-82,(Stop),,Argentina,-34.9964963,-64.9672817,2-Feb-26,2-Feb-26,planned,,,Argentina
-83,(Stop),,Argentina,-34.9964963,-64.9672817,3-Feb-26,3-Feb-26,planned,,,Argentina
-84,(Stop),,Argentina,-34.9964963,-64.9672817,4-Feb-26,4-Feb-26,planned,,,Argentina
-85,(Stop),,Argentina,-34.9964963,-64.9672817,5-Feb-26,5-Feb-26,planned,,,Argentina
-86,(Stop),,Argentina,-34.9964963,-64.9672817,6-Feb-26,6-Feb-26,planned,,,Argentina
-87,(Stop),,Argentina,-34.9964963,-64.9672817,7-Feb-26,7-Feb-26,planned,,,Argentina
-88,(Stop),,Argentina,-34.9964963,-64.9672817,8-Feb-26,8-Feb-26,planned,,,Argentina
-89,(Stop),,Argentina,-34.9964963,-64.9672817,9-Feb-26,9-Feb-26,planned,,,Argentina
-90,(Stop),,Argentina,-34.9964963,-64.9672817,10-Feb-26,10-Feb-26,planned,,,Argentina
-91,(Stop),,Argentina,-34.9964963,-64.9672817,11-Feb-26,11-Feb-26,planned,,,Argentina
-92,(Stop),,Argentina,-34.9964963,-64.9672817,12-Feb-26,12-Feb-26,planned,,,Argentina
-93,(Stop),,Argentina,-34.9964963,-64.9672817,13-Feb-26,13-Feb-26,planned,,,Argentina
-94,(Stop),,Argentina,-34.9964963,-64.9672817,14-Feb-26,14-Feb-26,planned,,,Argentina
-95,(Stop),,Chile,-31.7613365,-71.3187697,15-Feb-26,15-Feb-26,planned,,,Chile
-96,(Stop),,Chile,-31.7613365,-71.3187697,16-Feb-26,16-Feb-26,planned,,,Chile
-97,(Stop),,Chile,-31.7613365,-71.3187697,17-Feb-26,17-Feb-26,planned,,,Chile
-98,(Stop),,Chile,-31.7613365,-71.3187697,18-Feb-26,18-Feb-26,planned,,,Chile
-99,(Stop),,Chile,-31.7613365,-71.3187697,19-Feb-26,19-Feb-26,planned,,,Chile
-100,(Stop),,Chile,-31.7613365,-71.3187697,20-Feb-26,20-Feb-26,planned,,,Chile
-101,(Stop),,Chile,-31.7613365,-71.3187697,21-Feb-26,21-Feb-26,planned,,,Chile
-102,(Stop),,Chile,-31.7613365,-71.3187697,22-Feb-26,22-Feb-26,planned,,,Chile
-103,(Stop),,Chile,-31.7613365,-71.3187697,23-Feb-26,23-Feb-26,planned,,,Chile
-104,(Stop),,Chile,-31.7613365,-71.3187697,24-Feb-26,24-Feb-26,planned,,,Chile
-105,(Stop),,Chile,-31.7613365,-71.3187697,25-Feb-26,25-Feb-26,planned,,,Chile
-106,(Stop),,Chile,-31.7613365,-71.3187697,26-Feb-26,26-Feb-26,planned,,,Chile
-107,(Stop),,Chile,-31.7613365,-71.3187697,27-Feb-26,27-Feb-26,planned,,,Chile
-108,(Stop),,Chile,-31.7613365,-71.3187697,28-Feb-26,28-Feb-26,planned,,,Chile
-109,(Stop),,Chile,-31.7613365,-71.3187697,1-Mar-26,1-Mar-26,planned,,,Chile
-110,(Stop),,Chile,-31.7613365,-71.3187697,2-Mar-26,2-Mar-26,planned,,,Chile
-111,Auckland,,New Zealand,-36.85685287737599,174.7690443889676,3-Mar-26,3-Mar-26,planned,,,"-36.85685287737599, 174.7690443889676, New Zealand"
-112,Auckland,,New Zealand,-41.5000831,172.8344077,4-Mar-26,4-Mar-26,planned,,,New Zealand
-113,Auckland,,New Zealand,-41.5000831,172.8344077,5-Mar-26,5-Mar-26,planned,,,New Zealand
-114,(Stop),,New Zealand,-41.5000831,172.8344077,6-Mar-26,6-Mar-26,planned,,,New Zealand
-115,(Stop),,New Zealand,-41.5000831,172.8344077,7-Mar-26,7-Mar-26,planned,,,New Zealand
-116,(Stop),,New Zealand,-41.5000831,172.8344077,8-Mar-26,8-Mar-26,planned,,,New Zealand
-117,(Stop),,New Zealand,-41.5000831,172.8344077,9-Mar-26,9-Mar-26,planned,,,New Zealand
-118,(Stop),,New Zealand,-41.5000831,172.8344077,10-Mar-26,10-Mar-26,planned,,,New Zealand
-119,(Stop),,New Zealand,-41.5000831,172.8344077,11-Mar-26,11-Mar-26,planned,,,New Zealand
-120,(Stop),,New Zealand,-41.5000831,172.8344077,12-Mar-26,12-Mar-26,planned,,,New Zealand
-121,(Stop),,New Zealand,-41.5000831,172.8344077,13-Mar-26,13-Mar-26,planned,,,New Zealand
-122,(Stop),,New Zealand,-41.5000831,172.8344077,14-Mar-26,14-Mar-26,planned,,,New Zealand
-123,(Stop),,New Zealand,-41.5000831,172.8344077,15-Mar-26,15-Mar-26,planned,,,New Zealand
-124,(Stop),,New Zealand,-41.5000831,172.8344077,16-Mar-26,16-Mar-26,planned,,,New Zealand
-125,(Stop),,New Zealand,-41.5000831,172.8344077,17-Mar-26,17-Mar-26,planned,,,New Zealand
-126,(Stop),,New Zealand,-41.5000831,172.8344077,18-Mar-26,18-Mar-26,planned,,,New Zealand
-127,(Stop),,New Zealand,-41.5000831,172.8344077,19-Mar-26,19-Mar-26,planned,,,New Zealand
-128,(Stop),,New Zealand,-41.5000831,172.8344077,20-Mar-26,20-Mar-26,planned,,,New Zealand
-129,(Stop),,New Zealand,-41.5000831,172.8344077,21-Mar-26,21-Mar-26,planned,,,New Zealand
-130,(Stop),,New Zealand,-41.5000831,172.8344077,22-Mar-26,22-Mar-26,planned,,,New Zealand
-131,(Stop),,New Zealand,-41.5000831,172.8344077,23-Mar-26,23-Mar-26,planned,,,New Zealand
-132,(Stop),,New Zealand,-41.5000831,172.8344077,24-Mar-26,24-Mar-26,planned,,,New Zealand
-133,(Stop),,New Zealand,-41.5000831,172.8344077,25-Mar-26,25-Mar-26,planned,,,New Zealand
-134,(Stop),,New Zealand,-41.5000831,172.8344077,26-Mar-26,26-Mar-26,planned,,,New Zealand
-135,(Stop),,New Zealand,-41.5000831,172.8344077,27-Mar-26,27-Mar-26,planned,,,New Zealand
-136,(Stop),,New Zealand,-41.5000831,172.8344077,28-Mar-26,28-Mar-26,planned,,,New Zealand
-137,(Stop),,New Zealand,-41.5000831,172.8344077,29-Mar-26,29-Mar-26,planned,,,New Zealand
-138,(Stop),,New Zealand,-41.5000831,172.8344077,30-Mar-26,30-Mar-26,planned,,,New Zealand
-139,(Stop),,New Zealand,-41.5000831,172.8344077,31-Mar-26,31-Mar-26,planned,,,New Zealand
-140,(Stop),,New Zealand,-41.5000831,172.8344077,1-Apr-26,1-Apr-26,planned,,,New Zealand
-141,(Stop),,New Zealand,-41.5000831,172.8344077,2-Apr-26,2-Apr-26,planned,,,New Zealand
-142,(Stop),,New Zealand,-41.5000831,172.8344077,3-Apr-26,3-Apr-26,planned,,,New Zealand
-143,Queenstown,,New Zealand,-45.015445422871856,168.7528839429101,4-Apr-26,4-Apr-26,planned,,,"-45.015445422871856, 168.7528839429101, New Zealand"
-144,Sydney,,Australia,-33.97503871420181,151.1248056731728,5-Apr-26,5-Apr-26,planned,,,"-33.97503871420181, 151.1248056731728, Australia"
-145,Sydney,,Australia,-33.97503871420181,151.1248056731729,6-Apr-26,6-Apr-26,planned,,,"-33.97503871420181, 151.1248056731729, Australia"
-146,Sydney,,Australia,-33.97503871420181,151.1248056731730,7-Apr-26,7-Apr-26,planned,,,"-33.97503871420181, 151.1248056731730, Australia"
-147,Sydney,,Australia,-33.97503871420181,151.1248056731731,8-Apr-26,8-Apr-26,planned,,,"-33.97503871420181, 151.1248056731731, Australia"
-148,Sydney,,Australia,-33.97503871420181,151.1248056731732,9-Apr-26,9-Apr-26,planned,,,"-33.97503871420181, 151.1248056731732, Australia"
-149,Sydney,,Australia,-33.97503871420181,151.1248056731733,10-Apr-26,10-Apr-26,planned,,,"-33.97503871420181, 151.1248056731733, Australia"
-150,Sydney,,Australia,-33.97503871420181,151.1248056731734,11-Apr-26,11-Apr-26,planned,,,"-33.97503871420181, 151.1248056731734, Australia"
-151,Sydney,,Australia,-33.97503871420181,151.1248056731735,12-Apr-26,12-Apr-26,planned,,,"-33.97503871420181, 151.1248056731735, Australia"
-152,Melbourne,,Australia,-37.82449515604335,144.97388017566274,13-Apr-26,13-Apr-26,planned,,,"-37.82449515604335, 144.97388017566274, Australia"
-153,Melbourne,,Australia,-37.82449515604335,144.97388017566275,14-Apr-26,14-Apr-26,planned,,,"-37.82449515604335, 144.97388017566275, Australia"
-154,Melbourne,,Australia,-37.82449515604335,144.97388017566276,15-Apr-26,15-Apr-26,planned,,,"-37.82449515604335, 144.97388017566276, Australia"
-155,Melbourne,,Australia,-37.82449515604335,144.97388017566277,16-Apr-26,16-Apr-26,planned,,,"-37.82449515604335, 144.97388017566277, Australia"
-156,Melbourne,,Australia,-37.82449515604335,144.97388017566278,17-Apr-26,17-Apr-26,planned,,,"-37.82449515604335, 144.97388017566278, Australia"
-157,Melbourne,,Australia,-37.82449515604335,144.97388017566279,18-Apr-26,18-Apr-26,planned,,,"-37.82449515604335, 144.97388017566279, Australia"
-158,Melbourne,,Australia,-37.82449515604335,144.97388017566280,19-Apr-26,19-Apr-26,planned,,,"-37.82449515604335, 144.97388017566280, Australia"
-159,Melbourne,,Australia,-37.82449515604335,144.97388017566281,20-Apr-26,20-Apr-26,planned,,,"-37.82449515604335, 144.97388017566281, Australia"
-160,Melbourne,,Australia,-37.82449515604335,144.97388017566282,21-Apr-26,21-Apr-26,planned,,,"-37.82449515604335, 144.97388017566282, Australia"
-161,Melbourne,,Australia,-37.82449515604335,144.97388017566283,22-Apr-26,22-Apr-26,planned,,,"-37.82449515604335, 144.97388017566283, Australia"
-162,Melbourne,,Australia,-37.82449515604335,144.97388017566284,23-Apr-26,23-Apr-26,planned,,,"-37.82449515604335, 144.97388017566284, Australia"
-163,Brisbane,,Australia,-27.444277393724033,153.64753453279258,24-Apr-26,24-Apr-26,planned,,,"-27.444277393724033, 153.64753453279258, Australia"
-164,Brisbane,,Australia,-27.444277393724033,153.64753453279259,25-Apr-26,25-Apr-26,planned,,,"-27.444277393724033, 153.64753453279259, Australia"
-165,Brisbane,,Australia,-27.444277393724033,153.64753453279260,26-Apr-26,26-Apr-26,planned,,,"-27.444277393724033, 153.64753453279260, Australia"
-166,Brisbane,,Australia,-27.444277393724033,153.64753453279261,27-Apr-26,27-Apr-26,planned,,,"-27.444277393724033, 153.64753453279261, Australia"
-167,Brisbane,,Australia,-27.444277393724033,153.64753453279262,28-Apr-26,28-Apr-26,planned,,,"-27.444277393724033, 153.64753453279262, Australia"
-168,Brisbane,,Australia,-27.444277393724033,153.64753453279263,29-Apr-26,29-Apr-26,planned,,,"-27.444277393724033, 153.64753453279263, Australia"
-169,Brisbane,,Australia,-27.444277393724033,153.64753453279264,30-Apr-26,30-Apr-26,planned,,,"-27.444277393724033, 153.64753453279264, Australia"
-170,Brisbane,,Australia,-27.444277393724033,153.64753453279265,1-May-26,1-May-26,planned,,,"-27.444277393724033, 153.64753453279265, Australia"
-171,Brisbane,,Australia,-27.444277393724033,153.64753453279266,2-May-26,2-May-26,planned,,,"-27.444277393724033, 153.64753453279266, Australia"
-172,Sydney,,Australia,-34.00691564800835,152.30442863340093,3-May-26,3-May-26,planned,,,"-34.00691564800835, 152.30442863340093, Australia"
-173,Fiji Cruise Sydney,,Fiji,-17.685754378193508,178.21555638867528,4-May-26,4-May-26,planned,,,"-17.685754378193508, 178.21555638867528, Fiji"
-174,Fiji Cruise Sydney,,Fiji,-17.685754378193508,178.21555638867529,5-May-26,5-May-26,planned,,,"-17.685754378193508, 178.21555638867529, Fiji"
-175,Fiji Cruise Sydney,,Fiji,-17.685754378193508,178.21555638867530,6-May-26,6-May-26,planned,,,"-17.685754378193508, 178.21555638867530, Fiji"
-176,Fiji Cruise Sydney,,Fiji,-17.685754378193508,178.21555638867531,7-May-26,7-May-26,planned,,,"-17.685754378193508, 178.21555638867531, Fiji"
-177,Fiji Cruise Sydney,,Fiji,-17.685754378193508,178.21555638867532,8-May-26,8-May-26,planned,,,"-17.685754378193508, 178.21555638867532, Fiji"
-178,Fiji Cruise Sydney,,Fiji,-17.685754378193508,178.21555638867533,9-May-26,9-May-26,planned,,,"-17.685754378193508, 178.21555638867533, Fiji"
-179,Fiji Cruise Sydney,,Fiji,-17.685754378193508,178.21555638867534,10-May-26,10-May-26,planned,,,"-17.685754378193508, 178.21555638867534, Fiji"
-180,Fiji Cruise Sydney,,Fiji,-17.685754378193508,178.21555638867535,11-May-26,11-May-26,planned,,,"-17.685754378193508, 178.21555638867535, Fiji"
-181,Fiji Cruise Sydney,,Fiji,-17.685754378193508,178.21555638867536,12-May-26,12-May-26,planned,,,"-17.685754378193508, 178.21555638867536, Fiji"
-182,Fiji Cruise Sydney,,Fiji,-17.685754378193508,178.21555638867537,13-May-26,13-May-26,planned,,,"-17.685754378193508, 178.21555638867537, Fiji"
-183,Fiji Cruise Sydney,,Fiji,-17.685754378193508,178.21555638867538,14-May-26,14-May-26,planned,,,"-17.685754378193508, 178.21555638867538, Fiji"
-184,Fiji Cruise Sydney,,Fiji,-17.685754378193508,178.21555638867539,15-May-26,15-May-26,planned,,,"-17.685754378193508, 178.21555638867539, Fiji"
-185,Fiji Cruise Sydney,,Fiji,-17.685754378193508,178.21555638867540,16-May-26,16-May-26,planned,,,"-17.685754378193508, 178.21555638867540, Fiji"
-186,Sydney,,Australia,-34.00691564800835,152.30442863340093,17-May-26,17-May-26,planned,,,"-34.00691564800835, 152.30442863340093, Australia"
-187,Cairns,,Australia,-16.940025069844637,145.82105100737877,18-May-26,18-May-26,planned,,,"-16.940025069844637, 145.82105100737877, Australia"
-188,Cairns,,Australia,-16.940025069844637,145.82105100737878,19-May-26,19-May-26,planned,,,"-16.940025069844637, 145.82105100737878, Australia"
-189,Cairns,,Australia,-16.940025069844637,145.82105100737879,20-May-26,20-May-26,planned,,,"-16.940025069844637, 145.82105100737879, Australia"
-190,Cairns,,Australia,-16.940025069844637,145.82105100737880,21-May-26,21-May-26,planned,,,"-16.940025069844637, 145.82105100737880, Australia"
-191,Cairns,,Australia,-16.940025069844637,145.82105100737881,22-May-26,22-May-26,planned,,,"-16.940025069844637, 145.82105100737881, Australia"
-192,Cairns,,Australia,-16.940025069844637,145.82105100737882,23-May-26,23-May-26,planned,,,"-16.940025069844637, 145.82105100737882, Australia"
-193,Cairns,,Australia,-16.940025069844637,145.82105100737883,24-May-26,24-May-26,planned,,,"-16.940025069844637, 145.82105100737883, Australia"
-194,Cairns,,Australia,-16.940025069844637,145.82105100737884,25-May-26,25-May-26,planned,,,"-16.940025069844637, 145.82105100737884, Australia"
-195,Cairns,,Australia,-16.940025069844637,145.82105100737885,26-May-26,26-May-26,planned,,,"-16.940025069844637, 145.82105100737885, Australia"
-196,Cairns,,Australia,-16.940025069844637,145.82105100737886,27-May-26,27-May-26,planned,,,"-16.940025069844637, 145.82105100737886, Australia"
-197,Palawan,,Philippines,12.7503486,122.7312101,28-May-26,28-May-26,planned,,,Philippines
-198,Palawan,,Philippines,12.7503486,122.7312101,29-May-26,29-May-26,planned,,,Philippines
-199,Palawan,,Philippines,12.7503486,122.7312101,30-May-26,30-May-26,planned,,,Philippines
-200,Palawan,,Philippines,12.7503486,122.7312101,31-May-26,31-May-26,planned,,,Philippines
-201,Palawan,,Philippines,12.7503486,122.7312101,1-Jun-26,1-Jun-26,planned,,,Philippines
-202,Palawan,,Philippines,12.7503486,122.7312101,2-Jun-26,2-Jun-26,planned,,,Philippines
-203,Palawan,,Philippines,12.7503486,122.7312101,3-Jun-26,3-Jun-26,planned,,,Philippines
-204,Palawan,,Philippines,12.7503486,122.7312101,4-Jun-26,4-Jun-26,planned,,,Philippines
-205,Panglao Island,,Philippines,12.7503486,122.7312101,5-Jun-26,5-Jun-26,planned,,,Philippines
-206,Panglao Island,,Philippines,12.7503486,122.7312101,6-Jun-26,6-Jun-26,planned,,,Philippines
-207,Panglao Island,,Philippines,12.7503486,122.7312101,7-Jun-26,7-Jun-26,planned,,,Philippines
-208,Panglao Island,,Philippines,12.7503486,122.7312101,8-Jun-26,8-Jun-26,planned,,,Philippines
-209,Panglao Island,,Philippines,12.7503486,122.7312101,9-Jun-26,9-Jun-26,planned,,,Philippines
-210,Panglao Island,,Philippines,12.7503486,122.7312101,10-Jun-26,10-Jun-26,planned,,,Philippines
-211,Panglao Island,,Philippines,12.7503486,122.7312101,11-Jun-26,11-Jun-26,planned,,,Philippines
-212,Panglao Island,,Philippines,12.7503486,122.7312101,12-Jun-26,12-Jun-26,planned,,,Philippines
-213,Panglao Island,,Philippines,12.7503486,122.7312101,13-Jun-26,13-Jun-26,planned,,,Philippines
-214,Mactan Island,,Philippines,12.7503486,122.7312101,14-Jun-26,14-Jun-26,planned,,,Philippines
-215,Mactan Island,,Philippines,12.7503486,122.7312101,15-Jun-26,15-Jun-26,planned,,,Philippines
-216,Mactan Island,,Philippines,12.7503486,122.7312101,16-Jun-26,16-Jun-26,planned,,,Philippines
-217,Mactan Island,,Philippines,12.7503486,122.7312101,17-Jun-26,17-Jun-26,planned,,,Philippines
-218,Mactan Island,,Philippines,12.7503486,122.7312101,18-Jun-26,18-Jun-26,planned,,,Philippines
-219,Mactan Island,,Philippines,12.7503486,122.7312101,19-Jun-26,19-Jun-26,planned,,,Philippines
-220,Mactan Island,,Philippines,12.7503486,122.7312101,20-Jun-26,20-Jun-26,planned,,,Philippines
-221,Mactan Island,,Philippines,12.7503486,122.7312101,21-Jun-26,21-Jun-26,planned,,,Philippines
-222,Manila,,Philippines,12.7503486,122.7312101,22-Jun-26,22-Jun-26,planned,,,Philippines
-223,Manila,,Philippines,12.7503486,122.7312101,23-Jun-26,23-Jun-26,planned,,,Philippines
-224,Manila,,Philippines,12.7503486,122.7312101,24-Jun-26,24-Jun-26,planned,,,Philippines
-225,Manila,,Philippines,12.7503486,122.7312101,25-Jun-26,25-Jun-26,planned,,,Philippines
-226,Manila,,Philippines,12.7503486,122.7312101,26-Jun-26,26-Jun-26,planned,,,Philippines
-227,Manila,,Philippines,12.7503486,122.7312101,27-Jun-26,27-Jun-26,planned,,,Philippines
-228,Manila,,Philippines,12.7503486,122.7312101,28-Jun-26,28-Jun-26,planned,,,Philippines
-229,LOUWS IN THAILAND/Malaisia,,Malasia,4.5693754,102.2656823,29-Jun-26,29-Jun-26,planned,,,Malasia
-230,LOUWS IN THAILAND/Malaisia,,Malasia,4.5693754,102.2656823,30-Jun-26,30-Jun-26,planned,,,Malasia
-231,LOUWS IN THAILAND/Malaisia,,Malasia,4.5693754,102.2656823,1-Jul-26,1-Jul-26,planned,,,Malasia
-232,LOUWS IN THAILAND/Malaisia,,Malasia,4.5693754,102.2656823,2-Jul-26,2-Jul-26,planned,,,Malasia
-233,LOUWS IN THAILAND/Malaisia,,Malasia,4.5693754,102.2656823,3-Jul-26,3-Jul-26,planned,,,Malasia
-234,LOUWS IN THAILAND/Malaisia,,Malasia,4.5693754,102.2656823,4-Jul-26,4-Jul-26,planned,,,Malasia
-235,LOUWS IN THAILAND/Malaisia,,Malasia,4.5693754,102.2656823,5-Jul-26,5-Jul-26,planned,,,Malasia
-236,LOUWS IN THAILAND/Malaisia,,Malasia,4.5693754,102.2656823,6-Jul-26,6-Jul-26,planned,,,Malasia
-237,LOUWS IN THAILAND/Malaisia,,Malasia,4.5693754,102.2656823,7-Jul-26,7-Jul-26,planned,,,Malasia
-238,LOUWS IN THAILAND/Malaisia,,Malasia,4.5693754,102.2656823,8-Jul-26,8-Jul-26,planned,,,Malasia
-239,LOUWS IN THAILAND/Malaisia,,Malasia,4.5693754,102.2656823,9-Jul-26,9-Jul-26,planned,,,Malasia
-240,LOUWS IN THAILAND/Malaisia,,Malasia,4.5693754,102.2656823,10-Jul-26,10-Jul-26,planned,,,Malasia
-241,(Stop),,Singapore,1.3571070,103.8194992,11-Jul-26,11-Jul-26,planned,,,Singapore
-242,(Stop),,Singapore,1.3571070,103.8194992,12-Jul-26,12-Jul-26,planned,,,Singapore
-243,(Stop),,Singapore,1.3571070,103.8194992,13-Jul-26,13-Jul-26,planned,,,Singapore
-244,(Stop),,Singapore,1.3571070,103.8194992,14-Jul-26,14-Jul-26,planned,,,Singapore
-245,(Stop),,Singapore,1.3571070,103.8194992,15-Jul-26,15-Jul-26,planned,,,Singapore
-246,(Stop),,Singapore,1.3571070,103.8194992,16-Jul-26,16-Jul-26,planned,,,Singapore
-247,(Stop),,Singapore,1.3571070,103.8194992,17-Jul-26,17-Jul-26,planned,,,Singapore
-248,(Stop),,Singapore,1.3571070,103.8194992,18-Jul-26,18-Jul-26,planned,,,Singapore
-249,(Stop),,Singapore,1.3571070,103.8194992,19-Jul-26,19-Jul-26,planned,,,Singapore
-250,(Stop),,Singapore,1.3571070,103.8194992,20-Jul-26,20-Jul-26,planned,,,Singapore
-251,(Stop),,Singapore,1.3571070,103.8194992,21-Jul-26,21-Jul-26,planned,,,Singapore
-252,(Stop),,Indonesia,-2.4833826,117.8902853,22-Jul-26,22-Jul-26,planned,,,Indonesia
-253,(Stop),,Indonesia,-2.4833826,117.8902853,23-Jul-26,23-Jul-26,planned,,,Indonesia
-254,(Stop),,Indonesia,-2.4833826,117.8902853,24-Jul-26,24-Jul-26,planned,,,Indonesia
-255,(Stop),,Indonesia,-2.4833826,117.8902853,25-Jul-26,25-Jul-26,planned,,,Indonesia
-256,(Stop),,Indonesia,-2.4833826,117.8902853,26-Jul-26,26-Jul-26,planned,,,Indonesia
-257,(Stop),,Indonesia,-2.4833826,117.8902853,27-Jul-26,27-Jul-26,planned,,,Indonesia
-258,(Stop),,Indonesia,-2.4833826,117.8902853,28-Jul-26,28-Jul-26,planned,,,Indonesia
-259,(Stop),,Indonesia,-2.4833826,117.8902853,29-Jul-26,29-Jul-26,planned,,,Indonesia
-260,(Stop),,Indonesia,-2.4833826,117.8902853,30-Jul-26,30-Jul-26,planned,,,Indonesia
-261,(Stop),,Indonesia,-2.4833826,117.8902853,31-Jul-26,31-Jul-26,planned,,,Indonesia
-262,(Stop),,Indonesia,-2.4833826,117.8902853,1-Aug-26,1-Aug-26,planned,,,Indonesia
-263,(Stop),,Indonesia,-2.4833826,117.8902853,2-Aug-26,2-Aug-26,planned,,,Indonesia
-264,(Stop),,Indonesia,-2.4833826,117.8902853,3-Aug-26,3-Aug-26,planned,,,Indonesia
-265,(Stop),,Indonesia,-2.4833826,117.8902853,4-Aug-26,4-Aug-26,planned,,,Indonesia
-266,(Stop),,Indonesia,-2.4833826,117.8902853,5-Aug-26,5-Aug-26,planned,,,Indonesia
-267,(Stop),,Indonesia,-2.4833826,117.8902853,6-Aug-26,6-Aug-26,planned,,,Indonesia
-268,(Stop),,Indonesia,-2.4833826,117.8902853,7-Aug-26,7-Aug-26,planned,,,Indonesia
-269,(Stop),,Indonesia,-2.4833826,117.8902853,8-Aug-26,8-Aug-26,planned,,,Indonesia
-270,(Stop),,Indonesia,-2.4833826,117.8902853,9-Aug-26,9-Aug-26,planned,,,Indonesia
-271,(Stop),,Indonesia,-2.4833826,117.8902853,10-Aug-26,10-Aug-26,planned,,,Indonesia
-272,(Stop),,Indonesia,-2.4833826,117.8902853,11-Aug-26,11-Aug-26,planned,,,Indonesia
-273,(Stop),,Indonesia,-2.4833826,117.8902853,12-Aug-26,12-Aug-26,planned,,,Indonesia
-274,(Stop),,Indonesia,-2.4833826,117.8902853,13-Aug-26,13-Aug-26,planned,,,Indonesia
-275,(Stop),,Indonesia,-2.4833826,117.8902853,14-Aug-26,14-Aug-26,planned,,,Indonesia
-276,(Stop),,Indonesia,-2.4833826,117.8902853,15-Aug-26,15-Aug-26,planned,,,Indonesia
-277,(Stop),,Indonesia,-2.4833826,117.8902853,16-Aug-26,16-Aug-26,planned,,,Indonesia
-278,(Stop),,Indonesia,-2.4833826,117.8902853,17-Aug-26,17-Aug-26,planned,,,Indonesia
-279,(Stop),,Indonesia,-2.4833826,117.8902853,18-Aug-26,18-Aug-26,planned,,,Indonesia
-280,(Stop),,Indonesia,-2.4833826,117.8902853,19-Aug-26,19-Aug-26,planned,,,Indonesia
-281,(Stop),,Indonesia,-2.4833826,117.8902853,20-Aug-26,20-Aug-26,planned,,,Indonesia
-282,(Stop),,Indonesia,-2.4833826,117.8902853,21-Aug-26,21-Aug-26,planned,,,Indonesia
-283,(Stop),,Indonesia,-2.4833826,117.8902853,22-Aug-26,22-Aug-26,planned,,,Indonesia
+77,(Stop),,Panama,8.561579694089405,-81.13408227842763,28-Jan-26,28-Jan-26,planned,,,Panama
+78,(Stop),,Panama,8.561579694089405,-81.13408227842763,29-Jan-26,29-Jan-26,planned,,,Panama
+79,(Stop),,Panama,8.561579694089405,-81.13408227842763,30-Jan-26,30-Jan-26,planned,,,Panama
+80,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,31-Jan-26,31-Jan-26,planned,,,Argentina
+81,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,1-Feb-26,1-Feb-26,planned,,,Argentina
+82,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,2-Feb-26,2-Feb-26,planned,,,Argentina
+83,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,3-Feb-26,3-Feb-26,planned,,,Argentina
+84,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,4-Feb-26,4-Feb-26,planned,,,Argentina
+85,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,5-Feb-26,5-Feb-26,planned,,,Argentina
+86,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,6-Feb-26,6-Feb-26,planned,,,Argentina
+87,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,7-Feb-26,7-Feb-26,planned,,,Argentina
+88,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,8-Feb-26,8-Feb-26,planned,,,Argentina
+89,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,9-Feb-26,9-Feb-26,planned,,,Argentina
+90,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,10-Feb-26,10-Feb-26,planned,,,Argentina
+91,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,11-Feb-26,11-Feb-26,planned,,,Argentina
+92,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,12-Feb-26,12-Feb-26,planned,,,Argentina
+93,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,13-Feb-26,13-Feb-26,planned,,,Argentina
+94,(Stop),,Argentina,-34.994475605910594,-64.97119143282897,14-Feb-26,14-Feb-26,planned,,,Argentina
+95,(Stop),,Chile,-31.759315805910596,-71.3225366037974,15-Feb-26,15-Feb-26,planned,,,Chile
+96,(Stop),,Chile,-31.759315805910596,-71.3225366037974,16-Feb-26,16-Feb-26,planned,,,Chile
+97,(Stop),,Chile,-31.759315805910596,-71.3225366037974,17-Feb-26,17-Feb-26,planned,,,Chile
+98,(Stop),,Chile,-31.759315805910596,-71.3225366037974,18-Feb-26,18-Feb-26,planned,,,Chile
+99,(Stop),,Chile,-31.759315805910596,-71.3225366037974,19-Feb-26,19-Feb-26,planned,,,Chile
+100,(Stop),,Chile,-31.759315805910596,-71.3225366037974,20-Feb-26,20-Feb-26,planned,,,Chile
+101,(Stop),,Chile,-31.759315805910596,-71.3225366037974,21-Feb-26,21-Feb-26,planned,,,Chile
+102,(Stop),,Chile,-31.759315805910596,-71.3225366037974,22-Feb-26,22-Feb-26,planned,,,Chile
+103,(Stop),,Chile,-31.759315805910596,-71.3225366037974,23-Feb-26,23-Feb-26,planned,,,Chile
+104,(Stop),,Chile,-31.759315805910596,-71.3225366037974,24-Feb-26,24-Feb-26,planned,,,Chile
+105,(Stop),,Chile,-31.759315805910596,-71.3225366037974,25-Feb-26,25-Feb-26,planned,,,Chile
+106,(Stop),,Chile,-31.759315805910596,-71.3225366037974,26-Feb-26,26-Feb-26,planned,,,Chile
+107,(Stop),,Chile,-31.759315805910596,-71.3225366037974,27-Feb-26,27-Feb-26,planned,,,Chile
+108,(Stop),,Chile,-31.759315805910596,-71.3225366037974,28-Feb-26,28-Feb-26,planned,,,Chile
+109,(Stop),,Chile,-31.759315805910596,-71.3225366037974,1-Mar-26,1-Mar-26,planned,,,Chile
+110,(Stop),,Chile,-31.759315805910596,-71.3225366037974,2-Mar-26,2-Mar-26,planned,,,Chile
+111,Auckland,,New Zealand,-36.85483218328659,174.76504156890948,3-Mar-26,3-Mar-26,planned,,,"-36.85685287737599, 174.7690443889676, New Zealand"
+112,Auckland,,New Zealand,-41.498062405910595,172.83013133654143,4-Mar-26,4-Mar-26,planned,,,New Zealand
+113,Auckland,,New Zealand,-41.498062405910595,172.83013133654143,5-Mar-26,5-Mar-26,planned,,,New Zealand
+114,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,6-Mar-26,6-Mar-26,planned,,,New Zealand
+115,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,7-Mar-26,7-Mar-26,planned,,,New Zealand
+116,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,8-Mar-26,8-Mar-26,planned,,,New Zealand
+117,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,9-Mar-26,9-Mar-26,planned,,,New Zealand
+118,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,10-Mar-26,10-Mar-26,planned,,,New Zealand
+119,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,11-Mar-26,11-Mar-26,planned,,,New Zealand
+120,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,12-Mar-26,12-Mar-26,planned,,,New Zealand
+121,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,13-Mar-26,13-Mar-26,planned,,,New Zealand
+122,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,14-Mar-26,14-Mar-26,planned,,,New Zealand
+123,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,15-Mar-26,15-Mar-26,planned,,,New Zealand
+124,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,16-Mar-26,16-Mar-26,planned,,,New Zealand
+125,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,17-Mar-26,17-Mar-26,planned,,,New Zealand
+126,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,18-Mar-26,18-Mar-26,planned,,,New Zealand
+127,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,19-Mar-26,19-Mar-26,planned,,,New Zealand
+128,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,20-Mar-26,20-Mar-26,planned,,,New Zealand
+129,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,21-Mar-26,21-Mar-26,planned,,,New Zealand
+130,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,22-Mar-26,22-Mar-26,planned,,,New Zealand
+131,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,23-Mar-26,23-Mar-26,planned,,,New Zealand
+132,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,24-Mar-26,24-Mar-26,planned,,,New Zealand
+133,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,25-Mar-26,25-Mar-26,planned,,,New Zealand
+134,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,26-Mar-26,26-Mar-26,planned,,,New Zealand
+135,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,27-Mar-26,27-Mar-26,planned,,,New Zealand
+136,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,28-Mar-26,28-Mar-26,planned,,,New Zealand
+137,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,29-Mar-26,29-Mar-26,planned,,,New Zealand
+138,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,30-Mar-26,30-Mar-26,planned,,,New Zealand
+139,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,31-Mar-26,31-Mar-26,planned,,,New Zealand
+140,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,1-Apr-26,1-Apr-26,planned,,,New Zealand
+141,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,2-Apr-26,2-Apr-26,planned,,,New Zealand
+142,(Stop),,New Zealand,-41.498062405910595,172.83013133654143,3-Apr-26,3-Apr-26,planned,,,New Zealand
+143,Queenstown,,New Zealand,-45.013424728782454,168.7483532742871,4-Apr-26,4-Apr-26,planned,,,"-45.015445422871856, 168.7528839429101, New Zealand"
+144,Sydney,,Australia,-33.973018020112406,151.12094352953028,5-Apr-26,5-Apr-26,planned,,,"-33.97503871420181, 151.1248056731728, Australia"
+145,Sydney,,Australia,-33.973018020112406,151.12094352953036,6-Apr-26,6-Apr-26,planned,,,"-33.97503871420181, 151.1248056731729, Australia"
+146,Sydney,,Australia,-33.973018020112406,151.12094352953048,7-Apr-26,7-Apr-26,planned,,,"-33.97503871420181, 151.1248056731730, Australia"
+147,Sydney,,Australia,-33.973018020112406,151.1209435295306,8-Apr-26,8-Apr-26,planned,,,"-33.97503871420181, 151.1248056731731, Australia"
+148,Sydney,,Australia,-33.973018020112406,151.12094352953068,9-Apr-26,9-Apr-26,planned,,,"-33.97503871420181, 151.1248056731732, Australia"
+149,Sydney,,Australia,-33.973018020112406,151.1209435295308,10-Apr-26,10-Apr-26,planned,,,"-33.97503871420181, 151.1248056731733, Australia"
+150,Sydney,,Australia,-33.973018020112406,151.12094352953088,11-Apr-26,11-Apr-26,planned,,,"-33.97503871420181, 151.1248056731734, Australia"
+151,Sydney,,Australia,-33.973018020112406,151.120943529531,12-Apr-26,12-Apr-26,planned,,,"-33.97503871420181, 151.1248056731735, Australia"
+152,Melbourne,,Australia,-37.822474461953945,144.9698254452957,13-Apr-26,13-Apr-26,planned,,,"-37.82449515604335, 144.97388017566274, Australia"
+153,Melbourne,,Australia,-37.822474461953945,144.9698254452957,14-Apr-26,14-Apr-26,planned,,,"-37.82449515604335, 144.97388017566275, Australia"
+154,Melbourne,,Australia,-37.822474461953945,144.96982544529573,15-Apr-26,15-Apr-26,planned,,,"-37.82449515604335, 144.97388017566276, Australia"
+155,Melbourne,,Australia,-37.822474461953945,144.96982544529573,16-Apr-26,16-Apr-26,planned,,,"-37.82449515604335, 144.97388017566277, Australia"
+156,Melbourne,,Australia,-37.822474461953945,144.96982544529573,17-Apr-26,17-Apr-26,planned,,,"-37.82449515604335, 144.97388017566278, Australia"
+157,Melbourne,,Australia,-37.822474461953945,144.96982544529575,18-Apr-26,18-Apr-26,planned,,,"-37.82449515604335, 144.97388017566279, Australia"
+158,Melbourne,,Australia,-37.822474461953945,144.96982544529575,19-Apr-26,19-Apr-26,planned,,,"-37.82449515604335, 144.97388017566280, Australia"
+159,Melbourne,,Australia,-37.822474461953945,144.96982544529575,20-Apr-26,20-Apr-26,planned,,,"-37.82449515604335, 144.97388017566281, Australia"
+160,Melbourne,,Australia,-37.822474461953945,144.96982544529578,21-Apr-26,21-Apr-26,planned,,,"-37.82449515604335, 144.97388017566282, Australia"
+161,Melbourne,,Australia,-37.822474461953945,144.96982544529578,22-Apr-26,22-Apr-26,planned,,,"-37.82449515604335, 144.97388017566283, Australia"
+162,Melbourne,,Australia,-37.822474461953945,144.96982544529578,23-Apr-26,23-Apr-26,planned,,,"-37.82449515604335, 144.97388017566284, Australia"
+163,Brisbane,,Australia,-27.44225669963463,153.6439255761872,24-Apr-26,24-Apr-26,planned,,,"-27.444277393724033, 153.64753453279258, Australia"
+164,Brisbane,,Australia,-27.44225669963463,153.6439255761872,25-Apr-26,25-Apr-26,planned,,,"-27.444277393724033, 153.64753453279259, Australia"
+165,Brisbane,,Australia,-27.44225669963463,153.64392557618723,26-Apr-26,26-Apr-26,planned,,,"-27.444277393724033, 153.64753453279260, Australia"
+166,Brisbane,,Australia,-27.44225669963463,153.64392557618723,27-Apr-26,27-Apr-26,planned,,,"-27.444277393724033, 153.64753453279261, Australia"
+167,Brisbane,,Australia,-27.44225669963463,153.64392557618726,28-Apr-26,28-Apr-26,planned,,,"-27.444277393724033, 153.64753453279262, Australia"
+168,Brisbane,,Australia,-27.44225669963463,153.64392557618726,29-Apr-26,29-Apr-26,planned,,,"-27.444277393724033, 153.64753453279263, Australia"
+169,Brisbane,,Australia,-27.44225669963463,153.64392557618726,30-Apr-26,30-Apr-26,planned,,,"-27.444277393724033, 153.64753453279264, Australia"
+170,Brisbane,,Australia,-27.44225669963463,153.64392557618729,1-May-26,1-May-26,planned,,,"-27.444277393724033, 153.64753453279265, Australia"
+171,Brisbane,,Australia,-27.44225669963463,153.64392557618729,2-May-26,2-May-26,planned,,,"-27.444277393724033, 153.64753453279266, Australia"
+172,Sydney,,Australia,-34.00489495391895,152.30056504064055,3-May-26,3-May-26,planned,,,"-34.00691564800835, 152.30442863340093, Australia"
+173,Fiji Cruise Sydney,,Fiji,-17.683733684104105,178.2121947026935,4-May-26,4-May-26,planned,,,"-17.685754378193508, 178.21555638867528, Fiji"
+174,Fiji Cruise Sydney,,Fiji,-17.683733684104105,178.2121947026935,5-May-26,5-May-26,planned,,,"-17.685754378193508, 178.21555638867529, Fiji"
+175,Fiji Cruise Sydney,,Fiji,-17.683733684104105,178.21219470269352,6-May-26,6-May-26,planned,,,"-17.685754378193508, 178.21555638867530, Fiji"
+176,Fiji Cruise Sydney,,Fiji,-17.683733684104105,178.21219470269352,7-May-26,7-May-26,planned,,,"-17.685754378193508, 178.21555638867531, Fiji"
+177,Fiji Cruise Sydney,,Fiji,-17.683733684104105,178.21219470269352,8-May-26,8-May-26,planned,,,"-17.685754378193508, 178.21555638867532, Fiji"
+178,Fiji Cruise Sydney,,Fiji,-17.683733684104105,178.21219470269355,9-May-26,9-May-26,planned,,,"-17.685754378193508, 178.21555638867533, Fiji"
+179,Fiji Cruise Sydney,,Fiji,-17.683733684104105,178.21219470269355,10-May-26,10-May-26,planned,,,"-17.685754378193508, 178.21555638867534, Fiji"
+180,Fiji Cruise Sydney,,Fiji,-17.683733684104105,178.21219470269355,11-May-26,11-May-26,planned,,,"-17.685754378193508, 178.21555638867535, Fiji"
+181,Fiji Cruise Sydney,,Fiji,-17.683733684104105,178.21219470269358,12-May-26,12-May-26,planned,,,"-17.685754378193508, 178.21555638867536, Fiji"
+182,Fiji Cruise Sydney,,Fiji,-17.683733684104105,178.21219470269358,13-May-26,13-May-26,planned,,,"-17.685754378193508, 178.21555638867537, Fiji"
+183,Fiji Cruise Sydney,,Fiji,-17.683733684104105,178.21219470269358,14-May-26,14-May-26,planned,,,"-17.685754378193508, 178.21555638867538, Fiji"
+184,Fiji Cruise Sydney,,Fiji,-17.683733684104105,178.2121947026936,15-May-26,15-May-26,planned,,,"-17.685754378193508, 178.21555638867539, Fiji"
+185,Fiji Cruise Sydney,,Fiji,-17.683733684104105,178.2121947026936,16-May-26,16-May-26,planned,,,"-17.685754378193508, 178.21555638867540, Fiji"
+186,Sydney,,Australia,-34.00489495391895,152.30056504064055,17-May-26,17-May-26,planned,,,"-34.00691564800835, 152.30442863340093, Australia"
+187,Cairns,,Australia,-16.938004375755234,145.81770293256668,18-May-26,18-May-26,planned,,,"-16.940025069844637, 145.82105100737877, Australia"
+188,Cairns,,Australia,-16.938004375755234,145.81770293256668,19-May-26,19-May-26,planned,,,"-16.940025069844637, 145.82105100737878, Australia"
+189,Cairns,,Australia,-16.938004375755234,145.8177029325667,20-May-26,20-May-26,planned,,,"-16.940025069844637, 145.82105100737879, Australia"
+190,Cairns,,Australia,-16.938004375755234,145.8177029325667,21-May-26,21-May-26,planned,,,"-16.940025069844637, 145.82105100737880, Australia"
+191,Cairns,,Australia,-16.938004375755234,145.8177029325667,22-May-26,22-May-26,planned,,,"-16.940025069844637, 145.82105100737881, Australia"
+192,Cairns,,Australia,-16.938004375755234,145.81770293256673,23-May-26,23-May-26,planned,,,"-16.940025069844637, 145.82105100737882, Australia"
+193,Cairns,,Australia,-16.938004375755234,145.81770293256673,24-May-26,24-May-26,planned,,,"-16.940025069844637, 145.82105100737883, Australia"
+194,Cairns,,Australia,-16.938004375755234,145.81770293256673,25-May-26,25-May-26,planned,,,"-16.940025069844637, 145.82105100737884, Australia"
+195,Cairns,,Australia,-16.938004375755234,145.81770293256676,26-May-26,26-May-26,planned,,,"-16.940025069844637, 145.82105100737885, Australia"
+196,Cairns,,Australia,-16.938004375755234,145.81770293256676,27-May-26,27-May-26,planned,,,"-16.940025069844637, 145.82105100737886, Australia"
+197,Palawan,,Philippines,12.752369294089405,122.72792632249052,28-May-26,28-May-26,planned,,,Philippines
+198,Palawan,,Philippines,12.752369294089405,122.72792632249052,29-May-26,29-May-26,planned,,,Philippines
+199,Palawan,,Philippines,12.752369294089405,122.72792632249052,30-May-26,30-May-26,planned,,,Philippines
+200,Palawan,,Philippines,12.752369294089405,122.72792632249052,31-May-26,31-May-26,planned,,,Philippines
+201,Palawan,,Philippines,12.752369294089405,122.72792632249052,1-Jun-26,1-Jun-26,planned,,,Philippines
+202,Palawan,,Philippines,12.752369294089405,122.72792632249052,2-Jun-26,2-Jun-26,planned,,,Philippines
+203,Palawan,,Philippines,12.752369294089405,122.72792632249052,3-Jun-26,3-Jun-26,planned,,,Philippines
+204,Palawan,,Philippines,12.752369294089405,122.72792632249052,4-Jun-26,4-Jun-26,planned,,,Philippines
+205,Panglao Island,,Philippines,12.752369294089405,122.72792632249052,5-Jun-26,5-Jun-26,planned,,,Philippines
+206,Panglao Island,,Philippines,12.752369294089405,122.72792632249052,6-Jun-26,6-Jun-26,planned,,,Philippines
+207,Panglao Island,,Philippines,12.752369294089405,122.72792632249052,7-Jun-26,7-Jun-26,planned,,,Philippines
+208,Panglao Island,,Philippines,12.752369294089405,122.72792632249052,8-Jun-26,8-Jun-26,planned,,,Philippines
+209,Panglao Island,,Philippines,12.752369294089405,122.72792632249052,9-Jun-26,9-Jun-26,planned,,,Philippines
+210,Panglao Island,,Philippines,12.752369294089405,122.72792632249052,10-Jun-26,10-Jun-26,planned,,,Philippines
+211,Panglao Island,,Philippines,12.752369294089405,122.72792632249052,11-Jun-26,11-Jun-26,planned,,,Philippines
+212,Panglao Island,,Philippines,12.752369294089405,122.72792632249052,12-Jun-26,12-Jun-26,planned,,,Philippines
+213,Panglao Island,,Philippines,12.752369294089405,122.72792632249052,13-Jun-26,13-Jun-26,planned,,,Philippines
+214,Mactan Island,,Philippines,12.752369294089405,122.72792632249052,14-Jun-26,14-Jun-26,planned,,,Philippines
+215,Mactan Island,,Philippines,12.752369294089405,122.72792632249052,15-Jun-26,15-Jun-26,planned,,,Philippines
+216,Mactan Island,,Philippines,12.752369294089405,122.72792632249052,16-Jun-26,16-Jun-26,planned,,,Philippines
+217,Mactan Island,,Philippines,12.752369294089405,122.72792632249052,17-Jun-26,17-Jun-26,planned,,,Philippines
+218,Mactan Island,,Philippines,12.752369294089405,122.72792632249052,18-Jun-26,18-Jun-26,planned,,,Philippines
+219,Mactan Island,,Philippines,12.752369294089405,122.72792632249052,19-Jun-26,19-Jun-26,planned,,,Philippines
+220,Mactan Island,,Philippines,12.752369294089405,122.72792632249052,20-Jun-26,20-Jun-26,planned,,,Philippines
+221,Mactan Island,,Philippines,12.752369294089405,122.72792632249052,21-Jun-26,21-Jun-26,planned,,,Philippines
+222,Manila,,Philippines,12.752369294089405,122.72792632249052,22-Jun-26,22-Jun-26,planned,,,Philippines
+223,Manila,,Philippines,12.752369294089405,122.72792632249052,23-Jun-26,23-Jun-26,planned,,,Philippines
+224,Manila,,Philippines,12.752369294089405,122.72792632249052,24-Jun-26,24-Jun-26,planned,,,Philippines
+225,Manila,,Philippines,12.752369294089405,122.72792632249052,25-Jun-26,25-Jun-26,planned,,,Philippines
+226,Manila,,Philippines,12.752369294089405,122.72792632249052,26-Jun-26,26-Jun-26,planned,,,Philippines
+227,Manila,,Philippines,12.752369294089405,122.72792632249052,27-Jun-26,27-Jun-26,planned,,,Philippines
+228,Manila,,Philippines,12.752369294089405,122.72792632249052,28-Jun-26,28-Jun-26,planned,,,Philippines
+229,LOUWS IN THAILAND/Malaisia,,Malasia,4.571396094089404,102.26246928499411,29-Jun-26,29-Jun-26,planned,,,Malasia
+230,LOUWS IN THAILAND/Malaisia,,Malasia,4.571396094089404,102.26246928499411,30-Jun-26,30-Jun-26,planned,,,Malasia
+231,LOUWS IN THAILAND/Malaisia,,Malasia,4.571396094089404,102.26246928499411,1-Jul-26,1-Jul-26,planned,,,Malasia
+232,LOUWS IN THAILAND/Malaisia,,Malasia,4.571396094089404,102.26246928499411,2-Jul-26,2-Jul-26,planned,,,Malasia
+233,LOUWS IN THAILAND/Malaisia,,Malasia,4.571396094089404,102.26246928499411,3-Jul-26,3-Jul-26,planned,,,Malasia
+234,LOUWS IN THAILAND/Malaisia,,Malasia,4.571396094089404,102.26246928499411,4-Jul-26,4-Jul-26,planned,,,Malasia
+235,LOUWS IN THAILAND/Malaisia,,Malasia,4.571396094089404,102.26246928499411,5-Jul-26,5-Jul-26,planned,,,Malasia
+236,LOUWS IN THAILAND/Malaisia,,Malasia,4.571396094089404,102.26246928499411,6-Jul-26,6-Jul-26,planned,,,Malasia
+237,LOUWS IN THAILAND/Malaisia,,Malasia,4.571396094089404,102.26246928499411,7-Jul-26,7-Jul-26,planned,,,Malasia
+238,LOUWS IN THAILAND/Malaisia,,Malasia,4.571396094089404,102.26246928499411,8-Jul-26,8-Jul-26,planned,,,Malasia
+239,LOUWS IN THAILAND/Malaisia,,Malasia,4.571396094089404,102.26246928499411,9-Jul-26,9-Jul-26,planned,,,Malasia
+240,LOUWS IN THAILAND/Malaisia,,Malasia,4.571396094089404,102.26246928499411,10-Jul-26,10-Jul-26,planned,,,Malasia
+241,(Stop),,Singapore,1.359127694089404,103.81629549859557,11-Jul-26,11-Jul-26,planned,,,Singapore
+242,(Stop),,Singapore,1.359127694089404,103.81629549859557,12-Jul-26,12-Jul-26,planned,,,Singapore
+243,(Stop),,Singapore,1.359127694089404,103.81629549859557,13-Jul-26,13-Jul-26,planned,,,Singapore
+244,(Stop),,Singapore,1.359127694089404,103.81629549859557,14-Jul-26,14-Jul-26,planned,,,Singapore
+245,(Stop),,Singapore,1.359127694089404,103.81629549859557,15-Jul-26,15-Jul-26,planned,,,Singapore
+246,(Stop),,Singapore,1.359127694089404,103.81629549859557,16-Jul-26,16-Jul-26,planned,,,Singapore
+247,(Stop),,Singapore,1.359127694089404,103.81629549859557,17-Jul-26,17-Jul-26,planned,,,Singapore
+248,(Stop),,Singapore,1.359127694089404,103.81629549859557,18-Jul-26,18-Jul-26,planned,,,Singapore
+249,(Stop),,Singapore,1.359127694089404,103.81629549859557,19-Jul-26,19-Jul-26,planned,,,Singapore
+250,(Stop),,Singapore,1.359127694089404,103.81629549859557,20-Jul-26,20-Jul-26,planned,,,Singapore
+251,(Stop),,Singapore,1.359127694089404,103.81629549859557,21-Jul-26,21-Jul-26,planned,,,Singapore
+252,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,22-Jul-26,22-Jul-26,planned,,,Indonesia
+253,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,23-Jul-26,23-Jul-26,planned,,,Indonesia
+254,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,24-Jul-26,24-Jul-26,planned,,,Indonesia
+255,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,25-Jul-26,25-Jul-26,planned,,,Indonesia
+256,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,26-Jul-26,26-Jul-26,planned,,,Indonesia
+257,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,27-Jul-26,27-Jul-26,planned,,,Indonesia
+258,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,28-Jul-26,28-Jul-26,planned,,,Indonesia
+259,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,29-Jul-26,29-Jul-26,planned,,,Indonesia
+260,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,30-Jul-26,30-Jul-26,planned,,,Indonesia
+261,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,31-Jul-26,31-Jul-26,planned,,,Indonesia
+262,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,1-Aug-26,1-Aug-26,planned,,,Indonesia
+263,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,2-Aug-26,2-Aug-26,planned,,,Indonesia
+264,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,3-Aug-26,3-Aug-26,planned,,,Indonesia
+265,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,4-Aug-26,4-Aug-26,planned,,,Indonesia
+266,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,5-Aug-26,5-Aug-26,planned,,,Indonesia
+267,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,6-Aug-26,6-Aug-26,planned,,,Indonesia
+268,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,7-Aug-26,7-Aug-26,planned,,,Indonesia
+269,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,8-Aug-26,8-Aug-26,planned,,,Indonesia
+270,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,9-Aug-26,9-Aug-26,planned,,,Indonesia
+271,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,10-Aug-26,10-Aug-26,planned,,,Indonesia
+272,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,11-Aug-26,11-Aug-26,planned,,,Indonesia
+273,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,12-Aug-26,12-Aug-26,planned,,,Indonesia
+274,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,13-Aug-26,13-Aug-26,planned,,,Indonesia
+275,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,14-Aug-26,14-Aug-26,planned,,,Indonesia
+276,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,15-Aug-26,15-Aug-26,planned,,,Indonesia
+277,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,16-Aug-26,16-Aug-26,planned,,,Indonesia
+278,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,17-Aug-26,17-Aug-26,planned,,,Indonesia
+279,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,18-Aug-26,18-Aug-26,planned,,,Indonesia
+280,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,19-Aug-26,19-Aug-26,planned,,,Indonesia
+281,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,20-Aug-26,20-Aug-26,planned,,,Indonesia
+282,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,21-Aug-26,21-Aug-26,planned,,,Indonesia
+283,(Stop),,Indonesia,-2.4813619059105965,117.88707948643072,22-Aug-26,22-Aug-26,planned,,,Indonesia
 284,(Stop),,,,,23-Aug-26,23-Aug-26,planned,,,
 285,(Stop),,,,,24-Aug-26,24-Aug-26,planned,,,
 286,(Stop),,,,,25-Aug-26,25-Aug-26,planned,,,
@@ -477,4 +477,4 @@ After breakfast, we will say goodbye to the jungle and head back to the city of 
 350,(Stop),,,,,28-Oct-26,28-Oct-26,planned,,,
 351,(Stop),,,,,29-Oct-26,29-Oct-26,planned,,,
 352,(Stop),,,,,30-Oct-26,30-Oct-26,planned,,,
-353,Woerden,,Netherlands,52.0862290,4.8818111,31-Oct-26,31-Oct-26,planned,,,Nieuwe Markt 20 Woerden
+353,Woerden,,Netherlands,52.088249694089406,4.876598839761123,31-Oct-26,31-Oct-26,planned,,,Nieuwe Markt 20 Woerden

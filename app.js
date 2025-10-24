@@ -40,12 +40,12 @@ class HVApp extends HTMLElement {
         .container {
           display: block;
         }
-        .map-wrap {
-          margin-bottom: 16px;
-        }
+        .map-wrap,
         .sidebar {
+          width: 100%;
           min-width: 0;
-          margin-top: 0;
+          margin: 0 0 16px 0;
+          box-sizing: border-box;
         }
       }
       .map-wrap {
